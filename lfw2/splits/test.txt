@@ -1,0 +1,3000 @@
+Abdullah_Gul 12 15
+Abdullah_Gul 14 15
+Abdullah_Gul 2 15
+Abdullah_Gul 2 4
+Abdullah_Gul 2 8
+Abdullah_Gul 3 14
+Abdullah_Gul 3 16
+Abdullah_Gul 3 8
+Abdullah_Gul 4 12
+Abdullah_Gul 4 9
+Abdullah_Gul 5 14
+Abdullah_Gul 5 16
+Abdullah_Gul 5 8
+Abdullah_Gul 6 16
+Abdullah_Gul 6 9
+Abdullah_Gul 9 12
+Adrien_Brody 5 9
+Alejandro_Toledo 11 22
+Alejandro_Toledo 11 32
+Alejandro_Toledo 12 20
+Alejandro_Toledo 13 26
+Alejandro_Toledo 13 28
+Alejandro_Toledo 14 18
+Alejandro_Toledo 17 29
+Alejandro_Toledo 17 35
+Alejandro_Toledo 18 29
+Alejandro_Toledo 19 20
+Alejandro_Toledo 19 36
+Alejandro_Toledo 2 24
+Alejandro_Toledo 2 36
+Alejandro_Toledo 22 30
+Alejandro_Toledo 24 27
+Alejandro_Toledo 24 30
+Alejandro_Toledo 27 32
+Alejandro_Toledo 27 35
+Alejandro_Toledo 32 39
+Alejandro_Toledo 4 12
+Alejandro_Toledo 4 18
+Alejandro_Toledo 4 6
+Alejandro_Toledo 5 12
+Alejandro_Toledo 5 17
+Alejandro_Toledo 7 22
+Alejandro_Toledo 7 35
+Alvaro_Uribe 1 13
+Alvaro_Uribe 1 25
+Alvaro_Uribe 11 19
+Alvaro_Uribe 11 28
+Alvaro_Uribe 13 23
+Alvaro_Uribe 13 33
+Alvaro_Uribe 14 23
+Alvaro_Uribe 14 34
+Alvaro_Uribe 17 30
+Alvaro_Uribe 17 33
+Alvaro_Uribe 19 23
+Alvaro_Uribe 19 28
+Alvaro_Uribe 24 31
+Alvaro_Uribe 24 34
+Alvaro_Uribe 28 30
+Alvaro_Uribe 31 34
+Alvaro_Uribe 5 11
+Alvaro_Uribe 5 30
+Alvaro_Uribe 5 6
+Alvaro_Uribe 6 17
+Alvaro_Uribe 6 33
+Ana_Palacio 1 2
+Andre_Agassi 1 10
+Andre_Agassi 1 23
+Andre_Agassi 10 26
+Andre_Agassi 10 28
+Andre_Agassi 11 17
+Andre_Agassi 11 27
+Andre_Agassi 15 18
+Andre_Agassi 15 23
+Andre_Agassi 16 28
+Andre_Agassi 16 31
+Andre_Agassi 17 30
+Andre_Agassi 18 28
+Andre_Agassi 18 33
+Andre_Agassi 25 26
+Andre_Agassi 26 29
+Andre_Agassi 30 33
+Andre_Agassi 31 33
+Andre_Agassi 5 29
+Andre_Agassi 5 32
+Andre_Agassi 8 17
+Andy_Roddick 10 11
+Andy_Roddick 10 12
+Andy_Roddick 11 12
+Andy_Roddick 12 13
+Andy_Roddick 13 14
+Andy_Roddick 5 13
+Andy_Roddick 5 14
+Andy_Roddick 6 10
+Andy_Roddick 6 11
+Andy_Roddick 6 14
+Angelina_Jolie 12 17
+Angelina_Jolie 12 20
+Angelina_Jolie 15 17
+Angelina_Jolie 3 12
+Angelina_Jolie 3 17
+Angelina_Jolie 3 20
+Angelina_Jolie 4 14
+Angelina_Jolie 4 15
+Angelina_Jolie 5 14
+Angelina_Jolie 5 15
+Angelina_Jolie 5 9
+Angelina_Jolie 9 14
+Angelina_Jolie 9 20
+Ari_Fleischer 2 10
+Ari_Fleischer 2 4
+Ari_Fleischer 4 10
+Ariel_Sharon 1 65
+Ariel_Sharon 14 41
+Ariel_Sharon 14 57
+Ariel_Sharon 19 73
+Ariel_Sharon 21 25
+Ariel_Sharon 23 49
+Ariel_Sharon 24 53
+Ariel_Sharon 25 46
+Ariel_Sharon 30 55
+Ariel_Sharon 31 49
+Ariel_Sharon 32 47
+Ariel_Sharon 35 43
+Ariel_Sharon 35 71
+Ariel_Sharon 42 65
+Ariel_Sharon 45 73
+Ariel_Sharon 49 68
+Ariel_Sharon 5 21
+Ariel_Sharon 5 41
+Ariel_Sharon 53 73
+Ariel_Sharon 56 72
+Ariel_Sharon 56 74
+Ariel_Sharon 8 31
+Arnold_Schwarzenegger 1 35
+Arnold_Schwarzenegger 1 37
+Arnold_Schwarzenegger 1 7
+Arnold_Schwarzenegger 12 19
+Arnold_Schwarzenegger 12 42
+Arnold_Schwarzenegger 13 26
+Arnold_Schwarzenegger 13 42
+Arnold_Schwarzenegger 14 18
+Arnold_Schwarzenegger 14 22
+Arnold_Schwarzenegger 14 31
+Arnold_Schwarzenegger 17 26
+Arnold_Schwarzenegger 17 31
+Arnold_Schwarzenegger 18 27
+Arnold_Schwarzenegger 18 28
+Arnold_Schwarzenegger 19 22
+Arnold_Schwarzenegger 2 17
+Arnold_Schwarzenegger 2 5
+Arnold_Schwarzenegger 2 6
+Arnold_Schwarzenegger 20 23
+Arnold_Schwarzenegger 20 27
+Arnold_Schwarzenegger 20 32
+Arnold_Schwarzenegger 22 35
+Arnold_Schwarzenegger 23 36
+Arnold_Schwarzenegger 26 41
+Arnold_Schwarzenegger 27 39
+Arnold_Schwarzenegger 28 34
+Arnold_Schwarzenegger 28 39
+Arnold_Schwarzenegger 32 34
+Arnold_Schwarzenegger 32 35
+Arnold_Schwarzenegger 36 37
+Arnold_Schwarzenegger 5 19
+Arnold_Schwarzenegger 5 41
+Arnold_Schwarzenegger 6 13
+Arnold_Schwarzenegger 6 37
+Arnold_Schwarzenegger 7 36
+Arnold_Schwarzenegger 7 39
+Arnold_Schwarzenegger 8 23
+Arnold_Schwarzenegger 8 34
+Arnold_Schwarzenegger 8 41
+Arnold_Schwarzenegger 9 12
+Arnold_Schwarzenegger 9 31
+Arnold_Schwarzenegger 9 42
+Atal_Bihari_Vajpayee 10 20
+Atal_Bihari_Vajpayee 14 20
+Atal_Bihari_Vajpayee 14 21
+Atal_Bihari_Vajpayee 2 10
+Atal_Bihari_Vajpayee 2 14
+Atal_Bihari_Vajpayee 2 5
+Atal_Bihari_Vajpayee 21 22
+Atal_Bihari_Vajpayee 5 20
+Atal_Bihari_Vajpayee 5 22
+Atal_Bihari_Vajpayee 9 10
+Atal_Bihari_Vajpayee 9 21
+Atal_Bihari_Vajpayee 9 22
+Bill_Clinton 10 28
+Bill_Clinton 11 14
+Bill_Clinton 11 26
+Bill_Clinton 14 22
+Bill_Clinton 14 28
+Bill_Clinton 16 22
+Bill_Clinton 16 23
+Bill_Clinton 2 23
+Bill_Clinton 2 28
+Bill_Clinton 2 5
+Bill_Clinton 22 27
+Bill_Clinton 4 16
+Bill_Clinton 4 26
+Bill_Clinton 4 27
+Bill_Clinton 5 27
+Bill_Clinton 5 9
+Bill_Clinton 6 11
+Bill_Clinton 6 24
+Bill_Clinton 6 9
+Bill_Clinton 7 24
+Bill_Clinton 7 26
+Bill_Clinton 7 9
+Bill_Gates 10 15
+Bill_Gates 11 12
+Bill_Gates 4 10
+Bill_Gates 4 15
+Bill_Gates 4 8
+Bill_Gates 6 11
+Bill_Gates 6 12
+Bill_Gates 6 8
+Bill_Gates 8 11
+Bill_Gates 9 10
+Bill_Gates 9 12
+Bill_Gates 9 15
+Britney_Spears 10 13
+Britney_Spears 2 10
+Britney_Spears 2 7
+Britney_Spears 2 8
+Britney_Spears 5 10
+Britney_Spears 5 13
+Britney_Spears 5 9
+Britney_Spears 7 8
+Britney_Spears 7 9
+Britney_Spears 8 13
+Carlos_Menem 11 19
+Carlos_Menem 3 19
+Carlos_Menem 3 5
+Carlos_Menem 3 8
+Carlos_Menem 5 11
+Carlos_Menem 5 9
+Carlos_Menem 8 19
+Carlos_Menem 8 9
+Carlos_Menem 9 11
+Carlos_Moya 14 17
+Carlos_Moya 2 14
+Carlos_Moya 2 17
+Carlos_Moya 2 7
+Carlos_Moya 3 14
+Carlos_Moya 3 7
+Carlos_Moya 7 17
+Charles_Moose 5 11
+Colin_Powell 106 174
+Colin_Powell 117 191
+Colin_Powell 118 196
+Colin_Powell 142 223
+Colin_Powell 155 172
+Colin_Powell 161 180
+Colin_Powell 17 204
+Colin_Powell 19 115
+Colin_Powell 22 148
+Colin_Powell 221 236
+Colin_Powell 24 221
+Colin_Powell 24 86
+Colin_Powell 26 185
+Colin_Powell 32 92
+Colin_Powell 37 80
+Colin_Powell 39 67
+Colin_Powell 47 100
+Colin_Powell 47 206
+Colin_Powell 55 126
+Colin_Powell 61 172
+Colin_Powell 63 168
+Colin_Powell 90 142
+Colin_Powell 91 97
+Colin_Powell 92 107
+David_Beckham 10 20
+David_Beckham 10 27
+David_Beckham 10 29
+David_Beckham 13 30
+David_Beckham 13 31
+David_Beckham 14 28
+David_Beckham 18 30
+David_Beckham 20 27
+David_Beckham 20 29
+David_Beckham 25 28
+David_Beckham 25 29
+David_Beckham 25 31
+David_Beckham 4 6
+David_Beckham 4 9
+David_Beckham 5 18
+David_Beckham 5 31
+David_Beckham 6 27
+David_Beckham 6 30
+David_Beckham 8 28
+David_Beckham 8 9
+David_Beckham 9 14
+David_Nalbandian 1 12
+Dick_Cheney 4 12
+Dick_Cheney 4 7
+Dick_Cheney 7 12
+Dominique_de_Villepin 1 11
+Dominique_de_Villepin 1 15
+Dominique_de_Villepin 1 9
+Dominique_de_Villepin 11 15
+Dominique_de_Villepin 9 11
+Dominique_de_Villepin 9 15
+Donald_Rumsfeld 10 97
+Donald_Rumsfeld 11 50
+Donald_Rumsfeld 17 76
+Donald_Rumsfeld 18 87
+Donald_Rumsfeld 2 24
+Donald_Rumsfeld 22 79
+Donald_Rumsfeld 22 88
+Donald_Rumsfeld 24 25
+Donald_Rumsfeld 25 75
+Donald_Rumsfeld 28 117
+Donald_Rumsfeld 29 104
+Donald_Rumsfeld 33 77
+Donald_Rumsfeld 33 88
+Donald_Rumsfeld 44 107
+Donald_Rumsfeld 45 102
+Donald_Rumsfeld 46 51
+Donald_Rumsfeld 49 110
+Donald_Rumsfeld 5 29
+Donald_Rumsfeld 50 70
+Donald_Rumsfeld 52 115
+Donald_Rumsfeld 62 89
+Donald_Rumsfeld 7 23
+Donald_Rumsfeld 7 65
+Donald_Rumsfeld 76 104
+Donald_Rumsfeld 79 92
+Donald_Rumsfeld 8 56
+Donald_Rumsfeld 8 73
+Donald_Rumsfeld 82 104
+Donald_Rumsfeld 9 29
+Eduardo_Duhalde 2 13
+Eduardo_Duhalde 2 4
+Eduardo_Duhalde 2 7
+Eduardo_Duhalde 3 4
+Eduardo_Duhalde 3 7
+Eduardo_Duhalde 3 9
+Eduardo_Duhalde 4 9
+Eduardo_Duhalde 7 13
+Eduardo_Duhalde 9 13
+Fidel_Castro 10 12
+Fidel_Castro 7 10
+Fidel_Castro 7 12
+George_Robertson 10 17
+George_Robertson 16 17
+George_Robertson 16 19
+George_Robertson 19 21
+George_Robertson 19 22
+George_Robertson 2 10
+George_Robertson 2 12
+George_Robertson 2 21
+George_Robertson 8 16
+George_Robertson 8 21
+George_Robertson 8 22
+George_Robertson 9 10
+George_Robertson 9 17
+George_Robertson 9 22
+George_W_Bush 128 434
+George_W_Bush 15 334
+George_W_Bush 178 376
+George_W_Bush 187 447
+George_W_Bush 203 230
+George_W_Bush 256 411
+George_W_Bush 262 296
+George_W_Bush 293 410
+George_W_Bush 304 480
+George_W_Bush 347 480
+George_W_Bush 378 451
+George_W_Bush 388 469
+George_W_Bush 391 427
+George_W_Bush 394 400
+George_W_Bush 401 519
+George_W_Bush 41 76
+George_W_Bush 430 501
+George_W_Bush 447 526
+George_W_Bush 48 161
+George_W_Bush 54 62
+George_W_Bush 60 297
+George_W_Bush 61 136
+George_W_Bush 70 483
+George_W_Bush 89 281
+George_W_Bush 92 113
+George_W_Bush 92 199
+Gerhard_Schroeder 14 15
+Gerhard_Schroeder 14 57
+Gerhard_Schroeder 17 66
+Gerhard_Schroeder 21 40
+Gerhard_Schroeder 21 52
+Gerhard_Schroeder 22 36
+Gerhard_Schroeder 22 70
+Gerhard_Schroeder 24 59
+Gerhard_Schroeder 24 77
+Gerhard_Schroeder 24 79
+Gerhard_Schroeder 25 35
+Gerhard_Schroeder 25 77
+Gerhard_Schroeder 26 52
+Gerhard_Schroeder 28 95
+Gerhard_Schroeder 29 108
+Gerhard_Schroeder 29 51
+Gerhard_Schroeder 30 61
+Gerhard_Schroeder 36 65
+Gerhard_Schroeder 36 73
+Gerhard_Schroeder 41 51
+Gerhard_Schroeder 41 88
+Gerhard_Schroeder 5 48
+Gerhard_Schroeder 57 107
+Gerhard_Schroeder 59 97
+Gerhard_Schroeder 65 89
+Gerhard_Schroeder 66 78
+Gerhard_Schroeder 7 107
+Gerhard_Schroeder 83 103
+Gerhard_Schroeder 88 97
+Gloria_Macapagal_Arroyo 10 11
+Gloria_Macapagal_Arroyo 10 15
+Gloria_Macapagal_Arroyo 10 26
+Gloria_Macapagal_Arroyo 11 15
+Gloria_Macapagal_Arroyo 11 37
+Gloria_Macapagal_Arroyo 14 30
+Gloria_Macapagal_Arroyo 14 36
+Gloria_Macapagal_Arroyo 15 43
+Gloria_Macapagal_Arroyo 17 24
+Gloria_Macapagal_Arroyo 17 44
+Gloria_Macapagal_Arroyo 18 32
+Gloria_Macapagal_Arroyo 18 39
+Gloria_Macapagal_Arroyo 24 39
+Gloria_Macapagal_Arroyo 24 44
+Gloria_Macapagal_Arroyo 29 30
+Gloria_Macapagal_Arroyo 29 36
+Gloria_Macapagal_Arroyo 29 38
+Gloria_Macapagal_Arroyo 30 40
+Gloria_Macapagal_Arroyo 32 34
+Gloria_Macapagal_Arroyo 32 38
+Gloria_Macapagal_Arroyo 34 40
+Gloria_Macapagal_Arroyo 34 43
+Gloria_Macapagal_Arroyo 37 38
+Gloria_Macapagal_Arroyo 39 43
+Gloria_Macapagal_Arroyo 6 7
+Gloria_Macapagal_Arroyo 7 44
+Gloria_Macapagal_Arroyo 8 18
+Gloria_Macapagal_Arroyo 8 20
+Gloria_Macapagal_Arroyo 9 14
+Gonzalo_Sanchez_de_Lozada 5 11
+Gonzalo_Sanchez_de_Lozada 5 8
+Gonzalo_Sanchez_de_Lozada 5 9
+Gonzalo_Sanchez_de_Lozada 8 11
+Gonzalo_Sanchez_de_Lozada 8 9
+Gonzalo_Sanchez_de_Lozada 9 11
+Gray_Davis 1 18
+Gray_Davis 1 23
+Gray_Davis 1 26
+Gray_Davis 10 15
+Gray_Davis 10 20
+Gray_Davis 10 26
+Gray_Davis 14 23
+Gray_Davis 15 16
+Gray_Davis 15 23
+Gray_Davis 16 17
+Gray_Davis 16 19
+Gray_Davis 17 18
+Gray_Davis 17 19
+Gray_Davis 18 20
+Gray_Davis 19 26
+Gray_Davis 8 14
+Gray_Davis 8 20
+Guillermo_Coria 10 14
+Guillermo_Coria 11 18
+Guillermo_Coria 11 23
+Guillermo_Coria 13 15
+Guillermo_Coria 14 16
+Guillermo_Coria 14 24
+Guillermo_Coria 15 25
+Guillermo_Coria 16 28
+Guillermo_Coria 17 21
+Guillermo_Coria 17 22
+Guillermo_Coria 17 24
+Guillermo_Coria 18 30
+Guillermo_Coria 2 10
+Guillermo_Coria 2 13
+Guillermo_Coria 2 5
+Guillermo_Coria 22 25
+Guillermo_Coria 23 25
+Guillermo_Coria 24 28
+Guillermo_Coria 28 29
+Guillermo_Coria 29 30
+Guillermo_Coria 3 18
+Guillermo_Coria 3 21
+Guillermo_Coria 3 22
+Guillermo_Coria 5 11
+Guillermo_Coria 5 23
+Guillermo_Coria 6 16
+Guillermo_Coria 6 29
+Guillermo_Coria 6 30
+Guillermo_Coria 8 10
+Guillermo_Coria 8 21
+Guillermo_Coria 8 9
+Guillermo_Coria 9 13
+Hamid_Karzai 1 16
+Hamid_Karzai 1 18
+Hamid_Karzai 1 9
+Hamid_Karzai 10 18
+Hamid_Karzai 11 16
+Hamid_Karzai 11 21
+Hamid_Karzai 13 21
+Hamid_Karzai 15 17
+Hamid_Karzai 2 10
+Hamid_Karzai 2 13
+Hamid_Karzai 2 17
+Hamid_Karzai 4 11
+Hamid_Karzai 4 13
+Hamid_Karzai 4 21
+Hamid_Karzai 5 15
+Hamid_Karzai 5 16
+Hamid_Karzai 5 9
+Hamid_Karzai 7 10
+Hamid_Karzai 7 17
+Hamid_Karzai 7 18
+Hamid_Karzai 9 15
+Hans_Blix 11 32
+Hans_Blix 11 36
+Hans_Blix 14 28
+Hans_Blix 15 26
+Hans_Blix 15 37
+Hans_Blix 16 19
+Hans_Blix 17 20
+Hans_Blix 17 34
+Hans_Blix 18 24
+Hans_Blix 2 17
+Hans_Blix 2 23
+Hans_Blix 2 5
+Hans_Blix 20 31
+Hans_Blix 21 35
+Hans_Blix 22 36
+Hans_Blix 23 34
+Hans_Blix 24 28
+Hans_Blix 24 34
+Hans_Blix 26 35
+Hans_Blix 32 36
+Hans_Blix 33 35
+Hans_Blix 4 20
+Hans_Blix 5 14
+Hans_Blix 8 15
+Hans_Blix 8 19
+Hans_Blix 8 26
+Harrison_Ford 1 2
+Harrison_Ford 1 3
+Harrison_Ford 2 3
+Hillary_Clinton 1 13
+Hillary_Clinton 1 14
+Hillary_Clinton 1 4
+Hillary_Clinton 13 14
+Hillary_Clinton 4 13
+Hillary_Clinton 4 14
+Hugo_Chavez 10 29
+Hugo_Chavez 11 66
+Hugo_Chavez 12 19
+Hugo_Chavez 15 26
+Hugo_Chavez 15 37
+Hugo_Chavez 15 56
+Hugo_Chavez 19 23
+Hugo_Chavez 19 37
+Hugo_Chavez 22 29
+Hugo_Chavez 22 36
+Hugo_Chavez 22 59
+Hugo_Chavez 25 50
+Hugo_Chavez 35 52
+Hugo_Chavez 40 65
+Hugo_Chavez 45 58
+Hugo_Chavez 55 66
+Hugo_Chavez 6 59
+Hugo_Chavez 7 20
+Hugo_Chavez 7 35
+Ian_Thorpe 1 2
+Ian_Thorpe 1 9
+Ian_Thorpe 2 9
+Igor_Ivanov 1 13
+Igor_Ivanov 1 15
+Igor_Ivanov 1 18
+Igor_Ivanov 13 18
+Igor_Ivanov 17 18
+Igor_Ivanov 2 13
+Igor_Ivanov 2 15
+Igor_Ivanov 2 6
+Igor_Ivanov 3 15
+Igor_Ivanov 3 17
+Igor_Ivanov 3 6
+Igor_Ivanov 6 17
+Jack_Straw 1 14
+Jack_Straw 1 4
+Jack_Straw 1 5
+Jack_Straw 13 14
+Jack_Straw 13 18
+Jack_Straw 14 24
+Jack_Straw 18 28
+Jack_Straw 2 13
+Jack_Straw 2 22
+Jack_Straw 2 4
+Jack_Straw 22 28
+Jack_Straw 4 24
+Jack_Straw 5 18
+Jack_Straw 8 22
+Jack_Straw 8 24
+Jack_Straw 8 28
+Jacques_Chirac 10 22
+Jacques_Chirac 10 52
+Jacques_Chirac 12 17
+Jacques_Chirac 12 49
+Jacques_Chirac 13 34
+Jacques_Chirac 13 50
+Jacques_Chirac 17 38
+Jacques_Chirac 17 49
+Jacques_Chirac 18 52
+Jacques_Chirac 2 10
+Jacques_Chirac 2 13
+Jacques_Chirac 2 50
+Jacques_Chirac 22 35
+Jacques_Chirac 22 52
+Jacques_Chirac 27 38
+Jacques_Chirac 27 43
+Jacques_Chirac 27 51
+Jacques_Chirac 29 39
+Jacques_Chirac 29 46
+Jacques_Chirac 29 50
+Jacques_Chirac 34 39
+Jacques_Chirac 34 46
+Jacques_Chirac 38 47
+Jacques_Chirac 4 35
+Jacques_Chirac 4 5
+Jacques_Chirac 4 7
+Jacques_Chirac 46 49
+Jacques_Chirac 6 36
+Jacques_Chirac 6 43
+Jacques_Chirac 7 12
+Jacques_Chirac 8 16
+Jacques_Chirac 8 40
+Jacques_Chirac 8 47
+Jacques_Rogge 4 5
+James_Blake 1 10
+James_Blake 1 6
+James_Blake 6 10
+Jason_Kidd 7 9
+Javier_Solana 3 7
+Jean_Charest 2 16
+Jean_Charest 2 4
+Jean_Charest 2 8
+Jean_Charest 4 16
+Jean_Charest 4 9
+Jean_Charest 8 16
+Jean_Charest 8 9
+Jean_Chretien 10 21
+Jean_Chretien 10 53
+Jean_Chretien 11 22
+Jean_Chretien 11 32
+Jean_Chretien 11 43
+Jean_Chretien 2 32
+Jean_Chretien 2 48
+Jean_Chretien 21 34
+Jean_Chretien 23 49
+Jean_Chretien 27 52
+Jean_Chretien 3 34
+Jean_Chretien 3 39
+Jean_Chretien 3 54
+Jean_Chretien 39 43
+Jean_Chretien 42 54
+Jean_Chretien 46 49
+Jean_Chretien 48 49
+Jean_Chretien 5 10
+Jean_Chretien 5 53
+Jean_Chretien 6 42
+Jean_Chretien 7 8
+Jean_Chretien 9 43
+Jennifer_Aniston 1 12
+Jennifer_Aniston 1 13
+Jennifer_Aniston 1 7
+Jennifer_Aniston 10 13
+Jennifer_Aniston 15 17
+Jennifer_Aniston 17 18
+Jennifer_Aniston 5 10
+Jennifer_Aniston 5 12
+Jennifer_Aniston 5 18
+Jennifer_Aniston 6 10
+Jennifer_Aniston 6 16
+Jennifer_Aniston 6 17
+Jennifer_Aniston 7 16
+Jennifer_Aniston 7 18
+Jennifer_Aniston 9 12
+Jennifer_Aniston 9 13
+Jennifer_Aniston 9 16
+Jennifer_Capriati 1 31
+Jennifer_Capriati 1 4
+Jennifer_Capriati 1 7
+Jennifer_Capriati 12 28
+Jennifer_Capriati 12 39
+Jennifer_Capriati 16 20
+Jennifer_Capriati 17 21
+Jennifer_Capriati 18 31
+Jennifer_Capriati 18 39
+Jennifer_Capriati 2 3
+Jennifer_Capriati 2 33
+Jennifer_Capriati 21 32
+Jennifer_Capriati 24 36
+Jennifer_Capriati 3 20
+Jennifer_Capriati 3 36
+Jennifer_Capriati 31 32
+Jennifer_Capriati 33 40
+Jennifer_Capriati 4 7
+Jennifer_Capriati 7 22
+Jennifer_Lopez 1 13
+Jennifer_Lopez 1 17
+Jennifer_Lopez 1 8
+Jennifer_Lopez 15 17
+Jennifer_Lopez 3 13
+Jennifer_Lopez 3 15
+Jennifer_Lopez 8 15
+Jennifer_Lopez 8 17
+Jeong_Se-hyun 2 3
+Jeong_Se-hyun 2 5
+Jeong_Se-hyun 3 5
+Jeremy_Greenstock 1 3
+Jeremy_Greenstock 1 7
+Jeremy_Greenstock 1 9
+Jeremy_Greenstock 10 16
+Jeremy_Greenstock 10 20
+Jeremy_Greenstock 2 23
+Jeremy_Greenstock 2 3
+Jeremy_Greenstock 2 6
+Jeremy_Greenstock 20 23
+Jeremy_Greenstock 3 6
+Jeremy_Greenstock 6 16
+Jeremy_Greenstock 7 9
+Jeremy_Greenstock 8 10
+Jeremy_Greenstock 8 20
+Jeremy_Greenstock 8 23
+Jeremy_Greenstock 9 16
+Jiang_Zemin 11 15
+Jiang_Zemin 11 18
+Jiang_Zemin 15 18
+Joan_Laporta 7 9
+John_Abizaid 1 8
+John_Allen_Muhammad 5 8
+John_Ashcroft 12 43
+John_Ashcroft 15 22
+John_Ashcroft 16 26
+John_Ashcroft 16 51
+John_Ashcroft 18 39
+John_Ashcroft 2 12
+John_Ashcroft 2 25
+John_Ashcroft 20 47
+John_Ashcroft 21 22
+John_Ashcroft 22 47
+John_Ashcroft 26 46
+John_Ashcroft 27 39
+John_Ashcroft 3 33
+John_Ashcroft 33 41
+John_Ashcroft 4 43
+John_Ashcroft 6 12
+John_Ashcroft 6 32
+John_Ashcroft 7 16
+John_Ashcroft 7 21
+John_Ashcroft 9 20
+John_Ashcroft 9 32
+John_Bolton 13 14
+John_Howard 1 12
+John_Howard 1 7
+John_Howard 1 8
+John_Howard 10 13
+John_Howard 10 14
+John_Howard 10 15
+John_Howard 12 13
+John_Howard 14 15
+John_Howard 7 14
+John_Howard 7 15
+John_Howard 8 12
+John_Howard 8 13
+John_Kerry 1 12
+John_Kerry 1 16
+John_Kerry 1 17
+John_Kerry 10 16
+John_Kerry 10 17
+John_Kerry 12 16
+John_Kerry 12 17
+John_Negroponte 1 21
+John_Negroponte 1 24
+John_Negroponte 1 9
+John_Negroponte 16 27
+John_Negroponte 16 29
+John_Negroponte 18 26
+John_Negroponte 18 31
+John_Negroponte 19 24
+John_Negroponte 2 29
+John_Negroponte 2 5
+John_Negroponte 2 8
+John_Negroponte 26 31
+John_Negroponte 3 19
+John_Negroponte 3 29
+John_Negroponte 3 7
+John_Negroponte 4 21
+John_Negroponte 4 27
+John_Negroponte 4 31
+John_Negroponte 5 18
+John_Negroponte 5 21
+John_Negroponte 7 16
+John_Negroponte 7 24
+John_Negroponte 8 26
+John_Negroponte 8 27
+John_Negroponte 9 19
+John_Snow 1 10
+John_Snow 1 11
+John_Snow 1 5
+John_Snow 10 11
+John_Snow 4 10
+John_Snow 4 11
+John_Snow 4 5
+Joschka_Fischer 10 11
+Joschka_Fischer 11 14
+Joschka_Fischer 12 14
+Joschka_Fischer 12 15
+Joschka_Fischer 7 11
+Joschka_Fischer 7 14
+Joschka_Fischer 7 15
+Joschka_Fischer 9 10
+Joschka_Fischer 9 12
+Joschka_Fischer 9 15
+Jose_Maria_Aznar 13 16
+Juan_Carlos_Ferrero 11 12
+Juan_Carlos_Ferrero 11 22
+Juan_Carlos_Ferrero 12 17
+Juan_Carlos_Ferrero 12 27
+Juan_Carlos_Ferrero 13 27
+Juan_Carlos_Ferrero 19 28
+Juan_Carlos_Ferrero 2 14
+Juan_Carlos_Ferrero 2 9
+Juan_Carlos_Ferrero 20 21
+Juan_Carlos_Ferrero 20 28
+Juan_Carlos_Ferrero 21 28
+Juan_Carlos_Ferrero 22 23
+Juan_Carlos_Ferrero 6 17
+Juan_Carlos_Ferrero 6 19
+Juan_Carlos_Ferrero 6 23
+Juan_Carlos_Ferrero 7 13
+Juan_Carlos_Ferrero 7 14
+Juan_Carlos_Ferrero 7 23
+Juan_Carlos_Ferrero 8 19
+Juan_Carlos_Ferrero 8 20
+Juan_Carlos_Ferrero 8 27
+Juan_Carlos_Ferrero 9 17
+Juan_Carlos_Ferrero 9 21
+Juan_Pablo_Montoya 6 8
+Julianne_Moore 1 13
+Julianne_Moore 1 14
+Julianne_Moore 1 7
+Julianne_Moore 13 14
+Julianne_Moore 7 13
+Julianne_Moore 7 14
+Junichiro_Koizumi 10 32
+Junichiro_Koizumi 13 30
+Junichiro_Koizumi 15 46
+Junichiro_Koizumi 18 46
+Junichiro_Koizumi 21 38
+Junichiro_Koizumi 29 42
+Junichiro_Koizumi 3 44
+Junichiro_Koizumi 32 50
+Junichiro_Koizumi 32 57
+Junichiro_Koizumi 36 53
+Junichiro_Koizumi 37 53
+Junichiro_Koizumi 4 36
+Junichiro_Koizumi 40 57
+Junichiro_Koizumi 43 55
+Junichiro_Koizumi 45 55
+Junichiro_Koizumi 5 36
+Junichiro_Koizumi 5 37
+Junichiro_Koizumi 5 57
+Junichiro_Koizumi 6 21
+Junichiro_Koizumi 7 13
+Junichiro_Koizumi 7 58
+Justin_Timberlake 1 4
+Justin_Timberlake 1 7
+Justin_Timberlake 4 7
+Kate_Hudson 1 6
+Kate_Hudson 1 7
+Kate_Hudson 1 8
+Kate_Hudson 6 7
+Kate_Hudson 6 8
+Kate_Hudson 7 8
+Keanu_Reeves 4 5
+Keanu_Reeves 4 7
+Keanu_Reeves 4 8
+Keanu_Reeves 5 7
+Keanu_Reeves 5 8
+Keanu_Reeves 7 8
+Kofi_Annan 10 28
+Kofi_Annan 10 32
+Kofi_Annan 13 15
+Kofi_Annan 13 25
+Kofi_Annan 13 29
+Kofi_Annan 14 21
+Kofi_Annan 15 27
+Kofi_Annan 21 29
+Kofi_Annan 23 24
+Kofi_Annan 23 25
+Kofi_Annan 24 28
+Kofi_Annan 24 29
+Kofi_Annan 25 28
+Kofi_Annan 3 14
+Kofi_Annan 3 32
+Kofi_Annan 3 6
+Kofi_Annan 6 14
+Kofi_Annan 6 27
+Kofi_Annan 7 10
+Kofi_Annan 7 15
+Kofi_Annan 7 21
+Kofi_Annan 8 23
+Kofi_Annan 8 27
+Kofi_Annan 8 32
+Lance_Armstrong 1 18
+Lance_Armstrong 1 6
+Lance_Armstrong 1 7
+Lance_Armstrong 10 12
+Lance_Armstrong 10 14
+Lance_Armstrong 12 14
+Lance_Armstrong 6 18
+Lance_Armstrong 6 7
+Lance_Armstrong 7 18
+Laura_Bush 1 11
+Laura_Bush 1 21
+Laura_Bush 11 12
+Laura_Bush 12 15
+Laura_Bush 12 28
+Laura_Bush 13 17
+Laura_Bush 13 38
+Laura_Bush 14 37
+Laura_Bush 14 41
+Laura_Bush 16 41
+Laura_Bush 17 25
+Laura_Bush 17 35
+Laura_Bush 21 37
+Laura_Bush 21 41
+Laura_Bush 25 29
+Laura_Bush 26 27
+Laura_Bush 26 38
+Laura_Bush 27 35
+Laura_Bush 29 37
+Laura_Bush 29 39
+Laura_Bush 3 13
+Laura_Bush 3 28
+Laura_Bush 3 5
+Laura_Bush 38 39
+Laura_Bush 4 26
+Laura_Bush 4 27
+Laura_Bush 4 28
+Lindsay_Davenport 2 14
+Lindsay_Davenport 2 4
+Lindsay_Davenport 2 7
+Lindsay_Davenport 4 14
+Lindsay_Davenport 4 7
+Lindsay_Davenport 7 14
+Lleyton_Hewitt 1 15
+Lleyton_Hewitt 1 3
+Lleyton_Hewitt 11 14
+Lleyton_Hewitt 11 17
+Lleyton_Hewitt 13 41
+Lleyton_Hewitt 15 36
+Lleyton_Hewitt 17 23
+Lleyton_Hewitt 17 33
+Lleyton_Hewitt 19 22
+Lleyton_Hewitt 2 23
+Lleyton_Hewitt 2 29
+Lleyton_Hewitt 2 33
+Lleyton_Hewitt 22 41
+Lleyton_Hewitt 23 31
+Lleyton_Hewitt 28 29
+Lleyton_Hewitt 3 8
+Lleyton_Hewitt 36 37
+Lleyton_Hewitt 4 22
+Lleyton_Hewitt 4 6
+Lleyton_Hewitt 6 38
+Lleyton_Hewitt 6 41
+Lleyton_Hewitt 7 14
+Lleyton_Hewitt 7 36
+Lleyton_Hewitt 7 37
+Lleyton_Hewitt 8 11
+Lleyton_Hewitt 8 33
+Lucio_Gutierrez 3 8
+Luiz_Inacio_Lula_da_Silva 1 10
+Luiz_Inacio_Lula_da_Silva 1 44
+Luiz_Inacio_Lula_da_Silva 10 48
+Luiz_Inacio_Lula_da_Silva 11 45
+Luiz_Inacio_Lula_da_Silva 12 22
+Luiz_Inacio_Lula_da_Silva 13 44
+Luiz_Inacio_Lula_da_Silva 13 45
+Luiz_Inacio_Lula_da_Silva 18 22
+Luiz_Inacio_Lula_da_Silva 18 36
+Luiz_Inacio_Lula_da_Silva 20 33
+Luiz_Inacio_Lula_da_Silva 21 42
+Luiz_Inacio_Lula_da_Silva 22 48
+Luiz_Inacio_Lula_da_Silva 24 32
+Luiz_Inacio_Lula_da_Silva 25 42
+Luiz_Inacio_Lula_da_Silva 25 46
+Luiz_Inacio_Lula_da_Silva 3 12
+Luiz_Inacio_Lula_da_Silva 30 36
+Luiz_Inacio_Lula_da_Silva 4 16
+Luiz_Inacio_Lula_da_Silva 4 6
+Luiz_Inacio_Lula_da_Silva 41 45
+Luiz_Inacio_Lula_da_Silva 5 21
+Luiz_Inacio_Lula_da_Silva 5 32
+Luiz_Inacio_Lula_da_Silva 6 21
+Luiz_Inacio_Lula_da_Silva 6 33
+Luiz_Inacio_Lula_da_Silva 7 48
+Luiz_Inacio_Lula_da_Silva 9 13
+Luiz_Inacio_Lula_da_Silva 9 25
+Mahathir_Mohamad 5 13
+Mahathir_Mohamad 5 6
+Mahathir_Mohamad 6 13
+Mahmoud_Abbas 1 15
+Mahmoud_Abbas 1 27
+Mahmoud_Abbas 1 29
+Mahmoud_Abbas 13 19
+Mahmoud_Abbas 13 20
+Mahmoud_Abbas 14 29
+Mahmoud_Abbas 15 21
+Mahmoud_Abbas 19 21
+Mahmoud_Abbas 19 22
+Mahmoud_Abbas 20 22
+Mahmoud_Abbas 20 27
+Mahmoud_Abbas 21 25
+Mahmoud_Abbas 5 14
+Mahmoud_Abbas 5 25
+Mahmoud_Abbas 5 7
+Mahmoud_Abbas 6 22
+Mahmoud_Abbas 6 25
+Mahmoud_Abbas 6 7
+Mahmoud_Abbas 7 29
+Mahmoud_Abbas 8 13
+Mahmoud_Abbas 8 14
+Mahmoud_Abbas 8 27
+Mark_Philippoussis 4 11
+Mark_Philippoussis 4 9
+Mark_Philippoussis 9 11
+Megawati_Sukarnoputri 12 29
+Megawati_Sukarnoputri 17 20
+Megawati_Sukarnoputri 17 26
+Megawati_Sukarnoputri 18 26
+Megawati_Sukarnoputri 2 12
+Megawati_Sukarnoputri 2 18
+Megawati_Sukarnoputri 2 3
+Megawati_Sukarnoputri 21 32
+Megawati_Sukarnoputri 3 29
+Megawati_Sukarnoputri 3 6
+Megawati_Sukarnoputri 4 12
+Megawati_Sukarnoputri 4 20
+Megawati_Sukarnoputri 4 32
+Megawati_Sukarnoputri 6 21
+Megawati_Sukarnoputri 6 32
+Megawati_Sukarnoputri 7 18
+Megawati_Sukarnoputri 7 26
+Megawati_Sukarnoputri 7 8
+Megawati_Sukarnoputri 8 17
+Megawati_Sukarnoputri 8 9
+Megawati_Sukarnoputri 9 21
+Megawati_Sukarnoputri 9 29
+Meryl_Streep 1 10
+Meryl_Streep 1 4
+Meryl_Streep 4 10
+Michael_Bloomberg 1 14
+Michael_Bloomberg 1 8
+Michael_Bloomberg 1 9
+Michael_Bloomberg 10 16
+Michael_Bloomberg 14 16
+Michael_Bloomberg 8 14
+Michael_Bloomberg 8 9
+Michael_Bloomberg 9 16
+Michael_Jackson 1 4
+Michael_Jackson 1 9
+Michael_Jackson 2 3
+Michael_Jackson 2 8
+Michael_Jackson 2 9
+Michael_Jackson 3 4
+Michael_Jackson 3 5
+Michael_Jackson 4 5
+Michael_Jackson 5 8
+Michael_Jackson 8 9
+Michael_Schumacher 1 15
+Michael_Schumacher 1 2
+Michael_Schumacher 13 15
+Michael_Schumacher 2 13
+Michael_Schumacher 2 8
+Michael_Schumacher 8 13
+Michael_Schumacher 8 15
+Mike_Weir 4 5
+Mohammed_Al-Douri 12 15
+Mohammed_Al-Douri 6 12
+Mohammed_Al-Douri 6 15
+Nancy_Pelosi 10 14
+Nancy_Pelosi 10 15
+Nancy_Pelosi 14 15
+Naomi_Watts 9 19
+Nestor_Kirchner 1 16
+Nestor_Kirchner 1 26
+Nestor_Kirchner 10 17
+Nestor_Kirchner 10 19
+Nestor_Kirchner 12 16
+Nestor_Kirchner 13 25
+Nestor_Kirchner 13 30
+Nestor_Kirchner 17 30
+Nestor_Kirchner 19 25
+Nestor_Kirchner 19 26
+Nestor_Kirchner 20 31
+Nestor_Kirchner 28 31
+Nestor_Kirchner 3 25
+Nestor_Kirchner 3 26
+Nestor_Kirchner 3 31
+Nestor_Kirchner 6 30
+Nestor_Kirchner 7 16
+Nestor_Kirchner 8 10
+Nestor_Kirchner 8 12
+Nicanor_Duarte_Frutos 4 11
+Nicole_Kidman 10 18
+Nicole_Kidman 7 10
+Nicole_Kidman 7 18
+Norah_Jones 2 8
+Norah_Jones 2 9
+Norah_Jones 8 9
+Paul_Bremer 12 19
+Paul_Bremer 12 20
+Paul_Bremer 17 19
+Paul_Bremer 17 20
+Paul_Bremer 3 12
+Paul_Bremer 3 17
+Paul_Bremer 3 6
+Paul_Bremer 5 20
+Paul_Bremer 5 6
+Paul_Bremer 5 9
+Paul_Bremer 6 9
+Paul_Bremer 9 19
+Pervez_Musharraf 12 14
+Pervez_Musharraf 12 18
+Pervez_Musharraf 16 18
+Pervez_Musharraf 3 14
+Pervez_Musharraf 3 16
+Pervez_Musharraf 9 12
+Pervez_Musharraf 9 14
+Pervez_Musharraf 9 18
+Pete_Sampras 15 19
+Pete_Sampras 5 15
+Pete_Sampras 5 19
+Pierce_Brosnan 6 11
+Pierce_Brosnan 6 9
+Pierce_Brosnan 9 11
+Queen_Elizabeth_II 2 4
+Queen_Elizabeth_II 2 6
+Queen_Elizabeth_II 2 8
+Queen_Elizabeth_II 4 13
+Queen_Elizabeth_II 4 5
+Queen_Elizabeth_II 5 13
+Queen_Elizabeth_II 5 9
+Queen_Elizabeth_II 6 8
+Queen_Elizabeth_II 8 9
+Queen_Elizabeth_II 9 13
+Recep_Tayyip_Erdogan 11 18
+Recep_Tayyip_Erdogan 13 20
+Recep_Tayyip_Erdogan 13 23
+Recep_Tayyip_Erdogan 15 23
+Recep_Tayyip_Erdogan 17 21
+Recep_Tayyip_Erdogan 17 26
+Recep_Tayyip_Erdogan 17 29
+Recep_Tayyip_Erdogan 18 21
+Recep_Tayyip_Erdogan 18 22
+Recep_Tayyip_Erdogan 2 15
+Recep_Tayyip_Erdogan 2 3
+Recep_Tayyip_Erdogan 2 9
+Recep_Tayyip_Erdogan 20 22
+Recep_Tayyip_Erdogan 20 29
+Recep_Tayyip_Erdogan 21 29
+Recep_Tayyip_Erdogan 23 26
+Recep_Tayyip_Erdogan 3 11
+Recep_Tayyip_Erdogan 3 13
+Recep_Tayyip_Erdogan 6 15
+Recep_Tayyip_Erdogan 6 22
+Recep_Tayyip_Erdogan 6 9
+Recep_Tayyip_Erdogan 9 11
+Renee_Zellweger 2 3
+Renee_Zellweger 2 5
+Renee_Zellweger 2 7
+Renee_Zellweger 3 4
+Renee_Zellweger 4 5
+Renee_Zellweger 4 7
+Renee_Zellweger 5 7
+Ricardo_Lagos 1 10
+Ricardo_Lagos 1 13
+Ricardo_Lagos 1 4
+Ricardo_Lagos 10 15
+Ricardo_Lagos 10 23
+Ricardo_Lagos 11 13
+Ricardo_Lagos 11 19
+Ricardo_Lagos 11 20
+Ricardo_Lagos 12 13
+Ricardo_Lagos 12 17
+Ricardo_Lagos 12 27
+Ricardo_Lagos 14 23
+Ricardo_Lagos 15 21
+Ricardo_Lagos 15 22
+Ricardo_Lagos 16 19
+Ricardo_Lagos 16 21
+Ricardo_Lagos 17 20
+Ricardo_Lagos 2 14
+Ricardo_Lagos 2 4
+Ricardo_Lagos 2 6
+Ricardo_Lagos 20 27
+Ricardo_Lagos 21 22
+Ricardo_Lagos 4 19
+Ricardo_Lagos 5 14
+Ricardo_Lagos 5 17
+Ricardo_Lagos 5 27
+Ricardo_Lagos 8 22
+Richard_Myers 10 18
+Richard_Myers 11 18
+Richard_Myers 2 6
+Richard_Myers 6 10
+Richard_Myers 6 11
+Richard_Myers 9 10
+Richard_Myers 9 11
+Richard_Myers 9 18
+Roh_Moo-hyun 1 16
+Roh_Moo-hyun 1 30
+Roh_Moo-hyun 1 5
+Roh_Moo-hyun 12 19
+Roh_Moo-hyun 15 28
+Roh_Moo-hyun 15 29
+Roh_Moo-hyun 16 25
+Roh_Moo-hyun 17 28
+Roh_Moo-hyun 17 30
+Roh_Moo-hyun 18 19
+Roh_Moo-hyun 18 25
+Roh_Moo-hyun 18 32
+Roh_Moo-hyun 2 17
+Roh_Moo-hyun 2 29
+Roh_Moo-hyun 2 8
+Roh_Moo-hyun 29 30
+Roh_Moo-hyun 3 12
+Roh_Moo-hyun 3 15
+Roh_Moo-hyun 3 16
+Roh_Moo-hyun 5 25
+Roh_Moo-hyun 5 9
+Roh_Moo-hyun 7 12
+Roh_Moo-hyun 7 19
+Roh_Moo-hyun 7 32
+Roh_Moo-hyun 8 32
+Roh_Moo-hyun 8 9
+Roh_Moo-hyun 9 28
+Rudolph_Giuliani 1 18
+Rudolph_Giuliani 1 26
+Rudolph_Giuliani 12 20
+Rudolph_Giuliani 13 19
+Rudolph_Giuliani 16 18
+Rudolph_Giuliani 20 26
+Rudolph_Giuliani 21 26
+Rudolph_Giuliani 7 15
+Rudolph_Giuliani 7 18
+Rudolph_Giuliani 8 13
+Rudolph_Giuliani 8 15
+Rudolph_Giuliani 9 12
+Rudolph_Giuliani 9 16
+Rudolph_Giuliani 9 20
+Saddam_Hussein 15 16
+Saddam_Hussein 16 18
+Saddam_Hussein 3 15
+Saddam_Hussein 3 5
+Saddam_Hussein 5 18
+Saddam_Hussein 9 15
+Saddam_Hussein 9 16
+Saddam_Hussein 9 18
+Serena_Williams 1 42
+Serena_Williams 1 45
+Serena_Williams 1 8
+Serena_Williams 17 30
+Serena_Williams 17 35
+Serena_Williams 17 37
+Serena_Williams 2 16
+Serena_Williams 2 44
+Serena_Williams 28 38
+Serena_Williams 28 51
+Serena_Williams 31 42
+Serena_Williams 38 51
+Serena_Williams 5 38
+Serena_Williams 5 43
+Serena_Williams 8 52
+Sergey_Lavrov 1 8
+Silvan_Shalom 3 5
+Silvio_Berlusconi 1 17
+Silvio_Berlusconi 1 30
+Silvio_Berlusconi 1 5
+Silvio_Berlusconi 11 20
+Silvio_Berlusconi 16 20
+Silvio_Berlusconi 16 25
+Silvio_Berlusconi 17 19
+Silvio_Berlusconi 19 29
+Silvio_Berlusconi 19 30
+Silvio_Berlusconi 20 25
+Silvio_Berlusconi 29 32
+Silvio_Berlusconi 30 32
+Silvio_Berlusconi 5 11
+Silvio_Berlusconi 5 6
+Silvio_Berlusconi 6 11
+Silvio_Berlusconi 6 17
+Silvio_Berlusconi 8 16
+Silvio_Berlusconi 8 32
+Silvio_Berlusconi 8 9
+Silvio_Berlusconi 9 25
+Silvio_Berlusconi 9 29
+Spencer_Abraham 1 11
+Spencer_Abraham 1 15
+Spencer_Abraham 1 7
+Spencer_Abraham 11 15
+Spencer_Abraham 7 11
+Spencer_Abraham 7 15
+Taha_Yassin_Ramadan 2 5
+Taha_Yassin_Ramadan 2 8
+Taha_Yassin_Ramadan 5 8
+Tiger_Woods 1 12
+Tiger_Woods 1 20
+Tiger_Woods 1 4
+Tiger_Woods 11 22
+Tiger_Woods 3 20
+Tiger_Woods 3 4
+Tiger_Woods 3 6
+Tiger_Woods 4 22
+Tiger_Woods 6 12
+Tiger_Woods 6 22
+Tiger_Woods 8 11
+Tiger_Woods 8 12
+Tiger_Woods 8 20
+Tiger_Woods 9 11
+Tim_Henman 10 11
+Tim_Henman 10 13
+Tim_Henman 11 13
+Tim_Henman 11 16
+Tim_Henman 13 14
+Tim_Henman 3 14
+Tim_Henman 3 16
+Tim_Henman 3 5
+Tim_Henman 5 10
+Tim_Henman 5 8
+Tim_Henman 8 14
+Tim_Henman 8 16
+Tom_Daschle 11 16
+Tom_Daschle 12 13
+Tom_Daschle 12 14
+Tom_Daschle 14 23
+Tom_Daschle 16 24
+Tom_Daschle 16 25
+Tom_Daschle 2 14
+Tom_Daschle 2 23
+Tom_Daschle 2 7
+Tom_Daschle 23 25
+Tom_Daschle 5 13
+Tom_Daschle 5 24
+Tom_Daschle 7 11
+Tom_Daschle 7 12
+Tom_Daschle 8 11
+Tom_Daschle 8 24
+Tom_Daschle 8 25
+Tom_Ridge 1 11
+Tom_Ridge 1 22
+Tom_Ridge 1 4
+Tom_Ridge 11 28
+Tom_Ridge 13 16
+Tom_Ridge 13 17
+Tom_Ridge 13 26
+Tom_Ridge 15 29
+Tom_Ridge 16 25
+Tom_Ridge 17 24
+Tom_Ridge 2 15
+Tom_Ridge 2 17
+Tom_Ridge 2 9
+Tom_Ridge 22 27
+Tom_Ridge 22 30
+Tom_Ridge 24 27
+Tom_Ridge 24 29
+Tom_Ridge 25 28
+Tom_Ridge 27 29
+Tom_Ridge 6 15
+Tom_Ridge 6 16
+Tom_Ridge 6 25
+Tom_Ridge 9 11
+Tom_Ridge 9 28
+Tommy_Franks 1 2
+Tommy_Franks 1 3
+Tommy_Franks 1 9
+Tommy_Franks 2 3
+Tommy_Franks 2 9
+Tommy_Franks 3 9
+Tony_Blair 10 25
+Tony_Blair 115 119
+Tony_Blair 123 134
+Tony_Blair 15 23
+Tony_Blair 16 129
+Tony_Blair 2 139
+Tony_Blair 20 128
+Tony_Blair 20 64
+Tony_Blair 22 126
+Tony_Blair 22 97
+Tony_Blair 23 38
+Tony_Blair 25 101
+Tony_Blair 26 32
+Tony_Blair 28 74
+Tony_Blair 3 134
+Tony_Blair 41 107
+Tony_Blair 41 71
+Tony_Blair 42 124
+Tony_Blair 43 53
+Tony_Blair 45 93
+Tony_Blair 47 80
+Tony_Blair 53 94
+Tony_Blair 57 94
+Tony_Blair 58 77
+Tony_Blair 76 106
+Tony_Blair 94 138
+Tony_Blair 98 138
+Trent_Lott 8 16
+Tung_Chee-hwa 1 2
+Venus_Williams 14 15
+Venus_Williams 15 17
+Venus_Williams 3 15
+Venus_Williams 3 17
+Venus_Williams 3 4
+Venus_Williams 4 14
+Venus_Williams 4 8
+Venus_Williams 8 14
+Venus_Williams 8 17
+Vicente_Fox 1 18
+Vicente_Fox 1 22
+Vicente_Fox 1 31
+Vicente_Fox 11 18
+Vicente_Fox 11 30
+Vicente_Fox 18 23
+Vicente_Fox 2 13
+Vicente_Fox 2 4
+Vicente_Fox 2 8
+Vicente_Fox 20 23
+Vicente_Fox 20 25
+Vicente_Fox 20 31
+Vicente_Fox 3 25
+Vicente_Fox 4 22
+Vicente_Fox 4 29
+Vicente_Fox 6 12
+Vicente_Fox 7 23
+Vicente_Fox 7 31
+Vicente_Fox 7 9
+Vicente_Fox 8 11
+Vicente_Fox 8 30
+Vicente_Fox 9 25
+Vicente_Fox 9 30
+Vladimir_Putin 10 30
+Vladimir_Putin 11 43
+Vladimir_Putin 12 36
+Vladimir_Putin 13 37
+Vladimir_Putin 14 36
+Vladimir_Putin 14 45
+Vladimir_Putin 16 19
+Vladimir_Putin 16 44
+Vladimir_Putin 19 24
+Vladimir_Putin 21 29
+Vladimir_Putin 21 34
+Vladimir_Putin 23 38
+Vladimir_Putin 23 43
+Vladimir_Putin 24 36
+Vladimir_Putin 28 46
+Vladimir_Putin 29 34
+Vladimir_Putin 29 37
+Vladimir_Putin 39 44
+Vladimir_Putin 5 10
+Vladimir_Putin 5 35
+Vladimir_Putin 6 16
+Vladimir_Putin 6 32
+Vladimir_Putin 6 9
+Vladimir_Putin 7 35
+Vladimir_Putin 8 24
+Vladimir_Putin 9 38
+Wen_Jiabao 3 8
+Wen_Jiabao 3 9
+Wen_Jiabao 8 9
+Winona_Ryder 10 11
+Winona_Ryder 10 13
+Winona_Ryder 11 19
+Winona_Ryder 13 19
+Winona_Ryder 15 16
+Winona_Ryder 15 19
+Winona_Ryder 15 23
+Winona_Ryder 6 10
+Winona_Ryder 6 16
+Winona_Ryder 6 23
+Winona_Ryder 8 11
+Winona_Ryder 8 13
+Winona_Ryder 8 23
+Yoriko_Kawaguchi 10 13
+Yoriko_Kawaguchi 6 10
+Yoriko_Kawaguchi 6 13
+Yoriko_Kawaguchi 6 8
+Yoriko_Kawaguchi 8 10
+Yoriko_Kawaguchi 8 13
+Abdel_Aziz_Al-Hakim 1 Ali_Bin_Hussein 1
+Abdel_Aziz_Al-Hakim 1 Christoph_Daum 1
+Abdel_Aziz_Al-Hakim 1 Scott_Gorelick 1
+Abdullah_Gul 6 Nikki_Cascone 1
+Adrien_Brody 5 Alex_Gonzalez 1
+Adrien_Brody 5 Keiko_Sofia_Fujimori 1
+Adrien_Brody 9 Gerhard_Schroeder 15
+Adrien_Brody 9 Nizar_Trabelsi 1
+Alan_Stonecipher 1 Colin_Cowie 1
+Alan_Stonecipher 1 Park_Jung_Sung 1
+Alan_Stonecipher 1 Shafal_Mosed 1
+Alejandro_Toledo 11 Ed_Wade 1
+Alejandro_Toledo 13 Hans_Blix 38
+Alejandro_Toledo 14 Hugo_Chavez 55
+Alejandro_Toledo 14 Jacques_Chirac 6
+Alejandro_Toledo 19 George_W_Bush 250
+Alejandro_Toledo 2 Tony_Blair 63
+Alejandro_Toledo 20 Lleyton_Hewitt 13
+Alejandro_Toledo 26 Ariel_Sharon 53
+Alejandro_Toledo 26 Colin_Powell 195
+Alejandro_Toledo 28 Gerhard_Schroeder 5
+Alejandro_Toledo 28 Luiz_Inacio_Lula_da_Silva 3
+Alejandro_Toledo 29 Vladimir_Putin 14
+Alejandro_Toledo 30 John_Ashcroft 4
+Alejandro_Toledo 36 Elena_Dementieva 1
+Alejandro_Toledo 39 Ariel_Sharon 71
+Alejandro_Toledo 39 John_Ashcroft 18
+Alejandro_Toledo 5 Ozzie_Smith 1
+Alejandro_Toledo 6 Ari_Fleischer 4
+Alejandro_Toledo 6 Michael_Michele 1
+Alejandro_Toledo 7 Jacques_Chirac 40
+Alessandra_Cerna 1 Gerhard_Schroeder 41
+Alessandra_Cerna 1 Pete_Sampras 5
+Alessandra_Cerna 1 Salma_Hayek 8
+Alex_Gonzalez 1 Jean_Chretien 32
+Alex_Gonzalez 1 Nia_Vardalos 2
+Alex_Popov 1 Hans_Blix 4
+Alex_Popov 1 Li_Peng 8
+Alex_Popov 1 Sergei_Yushenkov 1
+Alexa_Vega 1 James_Mathis 1
+Alexa_Vega 1 Newton_Carlton_Slawson 1
+Alexa_Vega 1 Perry_Gibbs 1
+Alexandra_Spann 1 Carrie-Anne_Moss 4
+Alexandra_Spann 1 Javier_Solana 7
+Alexandra_Spann 1 Rose_Linkins 1
+Ali_Bin_Hussein 1 Cristina_Torrens_Valero 1
+Ali_Bin_Hussein 1 Manuel_Gehring 1
+Alvaro_Uribe 1 Juan_Pablo_Montoya 6
+Alvaro_Uribe 14 Bill_Simon 11
+Alvaro_Uribe 24 Hank_Azaria 1
+Alvaro_Uribe 25 Donald_Rumsfeld 65
+Alvaro_Uribe 25 Richard_Myers 2
+Alvaro_Uribe 31 Gloria_Macapagal_Arroyo 20
+Amelie_Mauresmo 13 Bob_Hope 8
+Amelie_Mauresmo 13 Gerard_de_Cortanze 1
+Amelie_Mauresmo 13 Jackie_Chan 5
+Ana_Palacio 1 David_Duval 1
+Ana_Palacio 1 Rainer_Gut 1
+Ana_Palacio 2 Hugo_Chavez 44
+Ana_Palacio 2 Renee_Zellweger 3
+Ana_Sebastiao 1 Sandy_Smith 1
+Ana_Sebastiao 1 Taha_Yassin_Ramadan 2
+Ana_Sebastiao 1 Victor_Garber 1
+Andre_Agassi 1 Junichiro_Koizumi 4
+Andre_Agassi 11 George_W_Bush 24
+Andre_Agassi 14 Colin_Powell 91
+Andre_Agassi 14 Rudolph_Giuliani 19
+Andre_Agassi 14 Serena_Williams 36
+Andre_Agassi 15 Gloria_Macapagal_Arroyo 17
+Andre_Agassi 16 Junichiro_Koizumi 43
+Andre_Agassi 23 Gerhard_Schroeder 85
+Andre_Agassi 25 Ariel_Sharon 71
+Andre_Agassi 25 Jean_Chretien 25
+Andre_Agassi 27 Jackie_Chan 5
+Andre_Agassi 27 Junichiro_Koizumi 2
+Andre_Agassi 29 Joe_Friedberg 1
+Andre_Agassi 30 Shaun_Rusling 1
+Andre_Agassi 31 Donald_Rumsfeld 82
+Andre_Agassi 32 Rick_Reed 1
+Andre_Agassi 32 Vicente_Fox 15
+Andre_Agassi 5 Jennifer_Capriati 22
+Andre_Agassi 8 Harrison_Ford 2
+Andre_Agassi 8 Naomi_Watts 9
+Andrea_Bocelli 1 Anna_Kournikova 6
+Andrea_Bocelli 1 Junichiro_Koizumi 41
+Andrea_Bocelli 1 Todd_Robbins 1
+Andrea_Kiser 1 David_Beckham 4
+Andrea_Kiser 1 Robert_Vowler 1
+Andrea_Kiser 1 Roman_Tam 1
+Andy_Griffith 1 Hal_McCoy 1
+Andy_Griffith 1 Kate_Richardson 1
+Andy_Griffith 1 Mohammed_Dahlan 1
+Andy_Griggs 1 Bill_Clinton 20
+Andy_Griggs 1 Ian_Thorpe 1
+Andy_Griggs 1 Li_Peng 8
+Andy_Roddick 5 Jafar_Umar_Thalib 1
+Andy_Rooney 1 Jennie_Finch 1
+Andy_Rooney 1 Linda_Dano 1
+Andy_Rooney 1 Steven_Craig 1
+Angelina_Jolie 4 Steven_Spielberg 2
+Anna_Kournikova 6 Francois_Botha 1
+Anna_Kournikova 6 Jimmy_Szymanski 1
+Antanas_Valionis 1 Nancy_Pelosi 14
+Antanas_Valionis 1 Nino_DAngelo 1
+Antanas_Valionis 1 Sandy_Smith 1
+Anthony_Principi 1 Newt_Gingrich 1
+Anthony_Principi 1 Oliver_Phelps 1
+Anthony_Principi 1 Werner_Schlager 1
+Antonio_Palocci 6 David_Nalbandian 1
+Antonio_Palocci 6 Jean-Francois_Lemounier 1
+Antonio_Palocci 6 Laura_Bush 1
+Ari_Fleischer 10 Larry_Tanenbaum 1
+Ari_Fleischer 2 Frank_Bell 1
+Ariel_Sharon 1 Donald_Rumsfeld 52
+Ariel_Sharon 1 Tony_Blair 103
+Ariel_Sharon 11 Gerhard_Schroeder 61
+Ariel_Sharon 11 Junichiro_Koizumi 45
+Ariel_Sharon 11 Vladimir_Putin 17
+Ariel_Sharon 14 Tony_Blair 47
+Ariel_Sharon 16 Gerhard_Schroeder 86
+Ariel_Sharon 16 Hugo_Chavez 14
+Ariel_Sharon 16 Tony_Blair 67
+Ariel_Sharon 19 Koichiro_Matsuura 1
+Ariel_Sharon 19 Vladimir_Putin 39
+Ariel_Sharon 2 Laura_Bush 5
+Ariel_Sharon 2 Luiz_Inacio_Lula_da_Silva 46
+Ariel_Sharon 2 Vladimir_Putin 45
+Ariel_Sharon 20 Colin_Powell 156
+Ariel_Sharon 20 George_W_Bush 419
+Ariel_Sharon 20 George_W_Bush 91
+Ariel_Sharon 21 Jennifer_Capriati 22
+Ariel_Sharon 22 Gerhard_Schroeder 12
+Ariel_Sharon 22 Hans_Blix 32
+Ariel_Sharon 22 Mark_Philippoussis 4
+Ariel_Sharon 23 Colin_Powell 221
+Ariel_Sharon 23 Gerhard_Schroeder 26
+Ariel_Sharon 24 Jennifer_Capriati 34
+Ariel_Sharon 24 Vladimir_Putin 11
+Ariel_Sharon 25 Hugo_Chavez 25
+Ariel_Sharon 27 Colin_Powell 128
+Ariel_Sharon 27 George_W_Bush 466
+Ariel_Sharon 27 Gerhard_Schroeder 26
+Ariel_Sharon 28 Colin_Powell 223
+Ariel_Sharon 28 Donald_Rumsfeld 2
+Ariel_Sharon 28 Hugo_Chavez 64
+Ariel_Sharon 29 Colin_Powell 159
+Ariel_Sharon 29 Hugo_Chavez 28
+Ariel_Sharon 29 Tony_Blair 8
+Ariel_Sharon 30 Hugo_Chavez 53
+Ariel_Sharon 30 John_Ashcroft 46
+Ariel_Sharon 31 Tony_Blair 131
+Ariel_Sharon 32 George_W_Bush 16
+Ariel_Sharon 32 Serena_Williams 51
+Ariel_Sharon 33 George_W_Bush 386
+Ariel_Sharon 33 Gerhard_Schroeder 49
+Ariel_Sharon 33 Hugo_Chavez 66
+Ariel_Sharon 35 Michel_Kratochvil 1
+Ariel_Sharon 36 Hugo_Chavez 41
+Ariel_Sharon 36 Serena_Williams 45
+Ariel_Sharon 36 Tony_Blair 88
+Ariel_Sharon 37 Donald_Rumsfeld 63
+Ariel_Sharon 37 Hugo_Chavez 67
+Ariel_Sharon 37 Tony_Blair 99
+Ariel_Sharon 39 Colin_Powell 105
+Ariel_Sharon 39 George_W_Bush 323
+Ariel_Sharon 39 Tony_Blair 113
+Ariel_Sharon 4 George_W_Bush 516
+Ariel_Sharon 4 Jennifer_Capriati 30
+Ariel_Sharon 4 Junichiro_Koizumi 54
+Ariel_Sharon 41 Serena_Williams 10
+Ariel_Sharon 42 Donald_Rumsfeld 102
+Ariel_Sharon 42 Gerhard_Schroeder 48
+Ariel_Sharon 43 Tony_Blair 127
+Ariel_Sharon 43 Vladimir_Putin 35
+Ariel_Sharon 45 Hugo_Chavez 27
+Ariel_Sharon 45 Tony_Blair 99
+Ariel_Sharon 46 Colin_Powell 159
+Ariel_Sharon 46 Tony_Blair 49
+Ariel_Sharon 47 Tony_Blair 102
+Ariel_Sharon 47 Tony_Blair 108
+Ariel_Sharon 5 Hugo_Chavez 59
+Ariel_Sharon 51 George_W_Bush 103
+Ariel_Sharon 51 George_W_Bush 241
+Ariel_Sharon 51 Gerhard_Schroeder 45
+Ariel_Sharon 52 Colin_Powell 179
+Ariel_Sharon 52 Jean_Chretien 14
+Ariel_Sharon 52 Vladimir_Putin 3
+Ariel_Sharon 55 Hugo_Chavez 24
+Ariel_Sharon 55 Serena_Williams 10
+Ariel_Sharon 56 Hans_Blix 19
+Ariel_Sharon 57 Laura_Bush 6
+Ariel_Sharon 57 Shinya_Taniguchi 1
+Ariel_Sharon 6 Gerhard_Schroeder 4
+Ariel_Sharon 6 Luiz_Inacio_Lula_da_Silva 16
+Ariel_Sharon 6 Tony_Blair 102
+Ariel_Sharon 62 Gerhard_Schroeder 2
+Ariel_Sharon 62 Hugo_Chavez 70
+Ariel_Sharon 62 Tony_Blair 67
+Ariel_Sharon 63 Colin_Powell 143
+Ariel_Sharon 63 Colin_Powell 21
+Ariel_Sharon 63 Tony_Blair 30
+Ariel_Sharon 65 George_W_Bush 359
+Ariel_Sharon 68 Donald_Rumsfeld 37
+Ariel_Sharon 68 George_W_Bush 254
+Ariel_Sharon 69 Colin_Powell 80
+Ariel_Sharon 69 Donald_Rumsfeld 68
+Ariel_Sharon 69 Hugo_Chavez 36
+Ariel_Sharon 70 Colin_Powell 73
+Ariel_Sharon 70 Donald_Rumsfeld 56
+Ariel_Sharon 70 Hugo_Chavez 36
+Ariel_Sharon 72 Colin_Powell 17
+Ariel_Sharon 72 Hugo_Chavez 24
+Ariel_Sharon 74 George_W_Bush 497
+Ariel_Sharon 74 Serena_Williams 34
+Ariel_Sharon 76 Colin_Powell 101
+Ariel_Sharon 76 Donald_Rumsfeld 16
+Ariel_Sharon 76 John_Ashcroft 23
+Ariel_Sharon 77 Chris_Gratton 1
+Ariel_Sharon 77 Donald_Rumsfeld 34
+Ariel_Sharon 77 Junichiro_Koizumi 18
+Ariel_Sharon 8 Serena_Williams 16
+Ariel_Sharon 8 Serena_Williams 41
+Arnie_Boehm 1 David_Chase 1
+Arnie_Boehm 1 Federico_Fellini 1
+Arnie_Boehm 1 Luiz_Inacio_Lula_da_Silva 36
+Arthur_Martinez 1 Chuck_Bednarik 1
+Arthur_Martinez 1 Gloria_Macapagal_Arroyo 4
+Arthur_Martinez 1 Stephanie_Cohen_Aloro 1
+Asif_Hanif 1 Eddie_Lucio 1
+Asif_Hanif 1 Gregg_Berhalter 1
+Asif_Hanif 1 Junichiro_Koizumi 40
+Assad_Ahmadi 1 Jennie_Garth 1
+Assad_Ahmadi 1 Joseph_Salgado 1
+Assad_Ahmadi 1 Raaf_Schefter 1
+Atom_Egoyan 1 Einars_Repse 1
+Atom_Egoyan 1 Floyd_Keith 1
+Atom_Egoyan 1 Shafal_Mosed 1
+Avril_Lavigne 1 David_Beckham 8
+Avril_Lavigne 1 Dirk_Kempthorne 1
+Avril_Lavigne 1 Ricardo_Lagos 23
+Ben_Chandler 1 Jose_Luis_Chilavert 1
+Ben_Chandler 1 Jose_Maria_Aznar 16
+Ben_Chandler 1 Patricia_Phillips 1
+Bernard_Siegel 1 David_Duval 1
+Bernard_Siegel 1 Kim_Chinn 1
+Bernard_Siegel 1 Scott_Hoch 1
+Betsy_Coffin 1 Nestor_Kirchner 20
+Betsy_Coffin 1 Tom_Cruise 4
+Betsy_Coffin 1 Vicente_Fox 29
+Beyonce_Knowles 1 Hu_Jintao 2
+Beyonce_Knowles 1 Junichiro_Koizumi 6
+Beyonce_Knowles 1 Sterling_Hitchcock 1
+Bill_Clinton 10 Judy_Spreckels 1
+Bill_Clinton 10 Lance_Armstrong 10
+Bill_Clinton 20 Rudolph_Giuliani 1
+Bill_Clinton 20 Sandy_Smith 1
+Bill_Clinton 23 Michael_Bloomberg 10
+Bill_Clinton 24 Tang_Jiaxuan 11
+Bill_Clinton 29 Hans_Blix 30
+Bill_Clinton 29 Jean_Chretien 23
+Bill_Clinton 29 Nancy_Powell 1
+Bill_Graham 3 Robert_Schuller 1
+Bill_Graham 3 SJ_Twu 1
+Bill_Graham 3 Shamai_Leibowitz 1
+Bill_Kong 1 Lucio_Gutierrez 3
+Bill_Kong 1 Mike_Stefanik 1
+Bill_Kong 1 Scott_Hoch 1
+Bill_McBride 4 Francois_Botha 1
+Bill_McBride 4 Koichiro_Matsuura 1
+Bill_McBride 4 Tommy_Thompson 2
+Bill_OReilly 1 Greg_Kinsey 1
+Bill_OReilly 1 Jason_Kidd 9
+Bill_OReilly 1 Robert_Redford 5
+Bill_Simon 11 Peter_Ueberroth 1
+Bill_Simon 11 Vladimir_Ustinov 1
+Billy_Crawford 1 David_Beckham 18
+Billy_Crawford 1 Jim_Sterk 1
+Billy_Crawford 1 Thomas_OBrien 5
+Bison_Dele 1 Javier_Solana 7
+Bison_Dele 1 Jeong_Se-hyun 2
+Bison_Dele 1 Margaret_Hoelzer 1
+Bixente_LIzarazu 1 Bobo_Balde 1
+Bixente_LIzarazu 1 Nick_Cassavetes 1
+Bixente_LIzarazu 1 Phillips_Idowu 1
+Bob_Graham 6 Gerhard_Schroeder 48
+Bob_Graham 6 Jafar_Umar_Thalib 1
+Bob_Graham 6 Terry_Bradshaw 1
+Bob_Hope 8 Naomi_Watts 19
+Bob_Hope 8 Timothy_Wirth 1
+Bobo_Balde 1 Brandon_Hammond 1
+Bobo_Balde 1 Geoff_Hoon 6
+Brad_Banks 1 Christy_Turlington 1
+Brad_Banks 1 Colleen_Atwood 1
+Brad_Banks 1 John_Ashcroft 27
+Brad_Wilk 1 Jennifer_Lopez 13
+Brad_Wilk 1 Richard_Hellfant 1
+Brad_Wilk 1 Vladimir_Ustinov 1
+Brandon_Hammond 1 Jiang_Zemin 18
+Brandon_Hammond 1 Jim_Sterk 1
+Brandon_Knight 1 David_Nalbandian 12
+Brandon_Knight 1 Thad_Matta 1
+Brandon_Knight 1 Werner_Schlager 1
+Brett_Hull 1 Lima_Azimi 1
+Brett_Hull 1 Mohammed_Al-Douri 6
+Brett_Hull 1 Paul_Desmarais 1
+Britney_Spears 9 Charlie_Sheen 1
+Brook_Robinson 1 David_McKiernan 1
+Brook_Robinson 1 Mary_Hill 1
+Brook_Robinson 1 Tammy_Helm 1
+Bryan_Chui 1 John_Negroponte 9
+Bryan_Chui 1 Scott_Gorelick 1
+Bryan_Chui 1 Wallace_Capel 1
+Bustam_A_Zedan_Aljanabi 1 David_Bowie 1
+Bustam_A_Zedan_Aljanabi 1 Joan_Laporta 7
+Bustam_A_Zedan_Aljanabi 1 Tom_Ridge 30
+Carin_Koch 1 Emma_Watson 2
+Carin_Koch 1 Mario_Puzo 1
+Carin_Koch 1 Sean_OKeefe 5
+Carlos_Moya 3 Patrick_Dennehy 1
+Carrie-Anne_Moss 4 Evelyn_Lauder 1
+Carrie-Anne_Moss 4 Peter_Medgyessy 1
+Cathy_Chisholm 1 Mario_Vasquez_Rana 1
+Cathy_Chisholm 1 Serena_Karlan 1
+Cathy_Chisholm 1 Victor_Garber 1
+Cesar_Gaviria 4 Lima_Azimi 1
+Cesar_Gaviria 4 Steven_Spielberg 2
+Cesar_Gaviria 4 Vicente_Fox 6
+Chance_Mock 1 Nancy_Pelosi 15
+Chance_Mock 1 Penelope_Taylor 1
+Chance_Mock 1 Saeed_Anwar 1
+Chanda_Rubin 3 Kim_Chinn 1
+Chanda_Rubin 3 Sergey_Lavrov 1
+Chanda_Rubin 3 Tung_Chee-hwa 2
+Chandrika_Kumaratunga 1 Glen_Clark 1
+Chandrika_Kumaratunga 1 John_Allen_Muhammad 8
+Chandrika_Kumaratunga 1 Linn_Thornton 1
+Charlene_Barshefsky 1 Darrell_Dickey 1
+Charlene_Barshefsky 1 Jose_Carlo_Fernandez 1
+Charlene_Barshefsky 1 Larry_Tanenbaum 1
+Charles_Moose 11 Daniel_Pearl 1
+Charles_Moose 11 Pedro_Pauleta 1
+Charles_Moose 5 Jaime_Pressly 1
+Charles_Moose 5 Jerry_Pauley 1
+Charlie_Garner 1 Laura_Bush 5
+Charlie_Garner 1 Luiz_Inacio_Lula_da_Silva 39
+Charlie_Garner 1 Luiz_Inacio_Lula_da_Silva 46
+Charlie_Sheen 1 Michael_Bloomberg 10
+Charlie_Sheen 1 Mitchell_Potter 1
+Chip_Knight 1 Frank_Shea 1
+Chip_Knight 1 Michael_Arif 1
+Chip_Knight 1 Nicole_Kidman 10
+Chris_Andrews 1 Nizar_Trabelsi 1
+Chris_Andrews 1 Scott_Gorelick 1
+Chris_Andrews 1 Syed_Abdul_Rahman_Geelani 1
+Chris_Gratton 1 Nancy_Pelosi 10
+Chris_Gratton 1 Steve_Shiver 1
+Chris_Penn 1 Gordon_Brown 3
+Chris_Penn 1 Guillermo_Coria 15
+Chris_Penn 1 John_Abizaid 8
+Christina_Sawaya 1 Owen_Nolan 1
+Christina_Sawaya 1 Reina_Hayes 1
+Christina_Sawaya 1 Taufik_Kiemas 1
+Christoph_Daum 1 John_Snow 5
+Christoph_Daum 1 Tom_Cruise 4
+Christopher_Speer 1 Mario_Lobo_Zagallo 1
+Christopher_Speer 1 Newt_Gingrich 1
+Christopher_Speer 1 Roger_Winter 1
+Christy_Ferer 1 Eric_Idle 1
+Christy_Ferer 1 Mohammed_Dahlan 1
+Christy_Ferer 1 Nestor_Kirchner 28
+Christy_Turlington 1 Daniel_Pearl 1
+Christy_Turlington 1 Leonardo_Fernandez 1
+Chuck_Bednarik 1 Hugo_Chavez 29
+Chuck_Bednarik 1 John_Bolton 14
+Chuck_Hagel 1 Dionyssis_Georgiadis 1
+Chuck_Hagel 1 Mark_Martin 1
+Chuck_Hagel 1 Tara_Kirk 1
+Clifford_Etienne 1 Floyd_Keith 1
+Clifford_Etienne 1 Han_Sung_Joo 1
+Clifford_Etienne 1 Juan_Carlos_Ferrero 22
+Colin_Cowie 1 Hugo_Chavez 27
+Colin_Cowie 1 Richard_Greenberg 1
+Colin_Powell 10 Donald_Rumsfeld 33
+Colin_Powell 101 Gerhard_Schroeder 62
+Colin_Powell 102 Gerhard_Schroeder 70
+Colin_Powell 102 Junichiro_Koizumi 41
+Colin_Powell 104 Jean_Chretien 18
+Colin_Powell 104 Serena_Williams 16
+Colin_Powell 105 Donald_Rumsfeld 114
+Colin_Powell 106 Vladimir_Putin 8
+Colin_Powell 108 Gerhard_Schroeder 39
+Colin_Powell 11 Donald_Rumsfeld 61
+Colin_Powell 111 George_W_Bush 292
+Colin_Powell 113 Tony_Blair 29
+Colin_Powell 120 Tony_Blair 17
+Colin_Powell 123 George_W_Bush 239
+Colin_Powell 127 Serena_Williams 3
+Colin_Powell 130 Tony_Blair 127
+Colin_Powell 132 Serena_Williams 36
+Colin_Powell 133 Donald_Rumsfeld 106
+Colin_Powell 135 Donald_Rumsfeld 77
+Colin_Powell 14 Hugo_Chavez 64
+Colin_Powell 141 Donald_Rumsfeld 121
+Colin_Powell 147 Gerhard_Schroeder 58
+Colin_Powell 154 Hector_Mitelman 1
+Colin_Powell 161 Donald_Rumsfeld 114
+Colin_Powell 163 Donald_Rumsfeld 27
+Colin_Powell 163 Donald_Rumsfeld 46
+Colin_Powell 164 Gerhard_Schroeder 27
+Colin_Powell 168 George_W_Bush 257
+Colin_Powell 169 John_Ashcroft 19
+Colin_Powell 17 George_W_Bush 411
+Colin_Powell 170 Donald_Rumsfeld 103
+Colin_Powell 171 Donald_Rumsfeld 116
+Colin_Powell 173 Rudolph_Giuliani 2
+Colin_Powell 173 Tony_Blair 125
+Colin_Powell 175 George_W_Bush 402
+Colin_Powell 175 Vladimir_Putin 34
+Colin_Powell 179 Gerhard_Schroeder 17
+Colin_Powell 180 George_W_Bush 81
+Colin_Powell 181 Tony_Blair 8
+Colin_Powell 182 Tony_Blair 83
+Colin_Powell 183 George_W_Bush 339
+Colin_Powell 183 Hugo_Chavez 9
+Colin_Powell 183 Vladimir_Putin 15
+Colin_Powell 184 Gerhard_Schroeder 99
+Colin_Powell 184 Hugo_Chavez 3
+Colin_Powell 185 Gerhard_Schroeder 27
+Colin_Powell 186 Junichiro_Koizumi 4
+Colin_Powell 189 Donald_Rumsfeld 49
+Colin_Powell 190 Donald_Rumsfeld 87
+Colin_Powell 190 Tony_Blair 99
+Colin_Powell 197 Jennifer_Capriati 34
+Colin_Powell 2 Gerhard_Schroeder 58
+Colin_Powell 20 Donald_Rumsfeld 64
+Colin_Powell 200 George_W_Bush 196
+Colin_Powell 201 Junichiro_Koizumi 47
+Colin_Powell 201 Sam_Gerald 1
+Colin_Powell 201 Tony_Blair 40
+Colin_Powell 202 George_W_Bush 14
+Colin_Powell 202 George_W_Bush 442
+Colin_Powell 205 Donald_Rumsfeld 100
+Colin_Powell 205 Luiz_Inacio_Lula_da_Silva 29
+Colin_Powell 206 Hugo_Chavez 11
+Colin_Powell 207 Donald_Rumsfeld 64
+Colin_Powell 207 Heinrich_Wolfgang 1
+Colin_Powell 209 Gerhard_Schroeder 7
+Colin_Powell 212 Serena_Williams 41
+Colin_Powell 213 George_W_Bush 144
+Colin_Powell 215 Junichiro_Koizumi 23
+Colin_Powell 218 George_W_Bush 106
+Colin_Powell 219 George_W_Bush 232
+Colin_Powell 222 Hugo_Chavez 33
+Colin_Powell 222 Serena_Williams 48
+Colin_Powell 222 Vladimir_Putin 27
+Colin_Powell 224 Donald_Rumsfeld 120
+Colin_Powell 224 Jean_Chretien 15
+Colin_Powell 229 George_W_Bush 400
+Colin_Powell 229 Luiz_Inacio_Lula_da_Silva 2
+Colin_Powell 233 George_W_Bush 56
+Colin_Powell 233 Lokendra_Bahadur_Chand 1
+Colin_Powell 233 Tony_Blair 137
+Colin_Powell 236 George_W_Bush 32
+Colin_Powell 24 Junichiro_Koizumi 10
+Colin_Powell 28 Donald_Rumsfeld 37
+Colin_Powell 3 Jean_Chretien 15
+Colin_Powell 32 Donald_Rumsfeld 117
+Colin_Powell 36 George_W_Bush 311
+Colin_Powell 37 Donald_Rumsfeld 22
+Colin_Powell 38 Gerhard_Schroeder 50
+Colin_Powell 38 Hans_Blix 37
+Colin_Powell 4 John_Ashcroft 25
+Colin_Powell 40 Junichiro_Koizumi 26
+Colin_Powell 41 Donald_Rumsfeld 13
+Colin_Powell 41 Tony_Blair 5
+Colin_Powell 42 Gerhard_Schroeder 54
+Colin_Powell 42 Tom_Ridge 12
+Colin_Powell 43 Tony_Blair 20
+Colin_Powell 45 Donald_Rumsfeld 6
+Colin_Powell 45 George_W_Bush 257
+Colin_Powell 46 George_W_Bush 426
+Colin_Powell 47 George_W_Bush 512
+Colin_Powell 48 George_W_Bush 435
+Colin_Powell 48 Gerhard_Schroeder 3
+Colin_Powell 5 Donald_Rumsfeld 11
+Colin_Powell 5 Hugo_Chavez 40
+Colin_Powell 50 Donald_Rumsfeld 105
+Colin_Powell 52 George_W_Bush 428
+Colin_Powell 54 Hugo_Chavez 40
+Colin_Powell 55 Donald_Rumsfeld 39
+Colin_Powell 55 Vladimir_Putin 13
+Colin_Powell 56 Donald_Rumsfeld 12
+Colin_Powell 56 Donald_Rumsfeld 51
+Colin_Powell 56 George_W_Bush 259
+Colin_Powell 62 Gerhard_Schroeder 50
+Colin_Powell 64 Gerhard_Schroeder 11
+Colin_Powell 64 John_Ashcroft 52
+Colin_Powell 66 Donald_Rumsfeld 98
+Colin_Powell 67 Gerhard_Schroeder 97
+Colin_Powell 68 Junichiro_Koizumi 1
+Colin_Powell 69 Lleyton_Hewitt 31
+Colin_Powell 71 Luiz_Inacio_Lula_da_Silva 39
+Colin_Powell 72 Hugo_Chavez 23
+Colin_Powell 73 Tony_Blair 56
+Colin_Powell 74 Donald_Rumsfeld 121
+Colin_Powell 80 Donald_Rumsfeld 46
+Colin_Powell 81 Gerhard_Schroeder 20
+Colin_Powell 82 Donald_Rumsfeld 79
+Colin_Powell 83 George_W_Bush 516
+Colin_Powell 86 Hugo_Chavez 21
+Colin_Powell 87 George_W_Bush 33
+Colin_Powell 89 Tony_Blair 106
+Colin_Powell 89 Tony_Blair 75
+Colin_Powell 89 Tony_Blair 97
+Colin_Powell 9 Jean_Chretien 18
+Colin_Powell 90 Donald_Rumsfeld 56
+Colin_Powell 90 Tony_Blair 129
+Colin_Powell 91 Serena_Williams 31
+Colin_Powell 97 Junichiro_Koizumi 42
+Colin_Powell 97 Tony_Blair 143
+Colin_Powell 98 Gerhard_Schroeder 10
+Colin_Powell 98 Serena_Williams 34
+Colleen_Atwood 1 Linn_Thornton 1
+Colleen_Atwood 1 Mariano_Zabaleta 1
+Connie_Freydell 1 Jennifer_Lopez 3
+Connie_Freydell 1 Ozzie_Smith 1
+Connie_Freydell 1 Queen_Noor 1
+Corliss_Williamson 1 Enrica_Fico 1
+Corliss_Williamson 1 Ricardo_Lagos 8
+Corliss_Williamson 1 Silvan_Shalom 5
+Cristina_Torrens_Valero 1 Gerhard_Schroeder 83
+Cristina_Torrens_Valero 1 Lleyton_Hewitt 14
+Dan_Bartlett 1 David_Nalbandian 1
+Dan_Bartlett 1 Guillermo_Coria 9
+Dan_Bartlett 1 Nestor_Kirchner 2
+Daniel_Montenegro 1 Kim_Hong-up 1
+Daniel_Montenegro 1 Taufik_Kiemas 1
+Daniel_Montenegro 1 Valorie_Brabazon 1
+Daniel_Pearl 1 Mitchell_Potter 1
+Dany_Heatley 1 David_Hannay 1
+Dany_Heatley 1 Hugo_Chavez 35
+Dany_Heatley 1 Irwan_Fadzi_Idris 1
+Darin_Erstad 1 Lucio_Angulo 1
+Darin_Erstad 1 Saeed_Anwar 1
+Darin_Erstad 1 Walt_Harris 1
+Darrell_Dickey 1 Derrick_Rodgers 1
+Darrell_Dickey 1 Julio_Cesar_Franco 1
+Daryl_Jones 1 Heather_Locklear 1
+Daryl_Jones 1 Mario_Puzo 1
+Daryl_Jones 1 Mike_Weir 4
+Dave_Williams 1 Jeong_Se-hyun 3
+Dave_Williams 1 John_Allen_Muhammad 8
+Dave_Williams 1 Robbie_Naish 1
+David_Beckham 13 Stella_McCartney 1
+David_Beckham 14 Javier_Solana 3
+David_Beckham 5 Dora_Bakoyianni 1
+David_Bowie 1 Jim_Sterk 1
+David_Bowie 1 Will_Ofenheusle 1
+David_Chase 1 Margaret_Hoelzer 1
+David_Chase 1 Rudolph_Giuliani 13
+David_Duval 1 Han_Sung_Joo 1
+David_Hannay 1 Mark_Martin 1
+David_Hannay 1 Ray_Romano 5
+David_Hanson 1 Mahathir_Mohamad 5
+David_Hanson 1 Mohammed_Al-Douri 15
+David_Hanson 1 Serena_Karlan 1
+David_Kelly 1 Derek_Bond 1
+David_Kelly 1 John_Abizaid 1
+David_Kelly 1 Norah_Jones 8
+David_McKiernan 1 Jim_Nochols 1
+David_McKiernan 1 Timothy_Wirth 1
+David_Nalbandian 12 Sananda_Maitreya 1
+Derek_Bond 1 Joseph_Salgado 1
+Derek_Bond 1 Nick_Cassavetes 1
+Derian_Hatcher 1 Jim_Anderson 1
+Derian_Hatcher 1 Ryan_Newman 1
+Derian_Hatcher 1 Sergio_Vieira_De_Mello 10
+Derrick_Rodgers 1 Evelyn_Lauder 1
+Derrick_Rodgers 1 Howard_Dean 4
+Dick_Cheney 12 Hector_Mitelman 1
+Dick_Cheney 4 Tom_Daschle 5
+Dick_Cheney 7 George_W_Bush 343
+Dick_Smothers 1 Frank_Murkowski 1
+Dick_Smothers 1 Iveta_Benesova 1
+Dick_Smothers 1 Junichiro_Koizumi 45
+Dionyssis_Georgiadis 1 Felicity_Huffman 1
+Dionyssis_Georgiadis 1 Ian_Thorpe 9
+Dirk_Kempthorne 1 John_Ashcroft 17
+Dirk_Kempthorne 1 Wallace_Capel 1
+Donald_Rumsfeld 1 George_W_Bush 149
+Donald_Rumsfeld 1 George_W_Bush 524
+Donald_Rumsfeld 1 Gerhard_Schroeder 56
+Donald_Rumsfeld 10 Gerhard_Schroeder 39
+Donald_Rumsfeld 100 George_W_Bush 459
+Donald_Rumsfeld 101 Gerhard_Schroeder 103
+Donald_Rumsfeld 103 George_W_Bush 384
+Donald_Rumsfeld 103 Marie-Josee_Croze 1
+Donald_Rumsfeld 105 Gray_Davis 8
+Donald_Rumsfeld 105 Salma_Hayek 8
+Donald_Rumsfeld 106 Jean_Chretien 9
+Donald_Rumsfeld 107 George_W_Bush 161
+Donald_Rumsfeld 108 George_W_Bush 372
+Donald_Rumsfeld 108 Hugo_Chavez 14
+Donald_Rumsfeld 108 Luiz_Inacio_Lula_da_Silva 24
+Donald_Rumsfeld 109 George_W_Bush 107
+Donald_Rumsfeld 109 George_W_Bush 356
+Donald_Rumsfeld 109 Jean_Chretien 52
+Donald_Rumsfeld 11 Hugo_Chavez 68
+Donald_Rumsfeld 111 Lleyton_Hewitt 29
+Donald_Rumsfeld 111 Lleyton_Hewitt 31
+Donald_Rumsfeld 111 Tony_Blair 44
+Donald_Rumsfeld 113 George_W_Bush 58
+Donald_Rumsfeld 113 Hugo_Chavez 18
+Donald_Rumsfeld 115 Gerhard_Schroeder 93
+Donald_Rumsfeld 115 John_Ashcroft 3
+Donald_Rumsfeld 117 Vladimir_Putin 37
+Donald_Rumsfeld 119 George_W_Bush 444
+Donald_Rumsfeld 119 Junichiro_Koizumi 3
+Donald_Rumsfeld 12 Gerhard_Schroeder 93
+Donald_Rumsfeld 120 Jean_Chretien 14
+Donald_Rumsfeld 120 Lucio_Angulo 1
+Donald_Rumsfeld 121 Jean_Chretien 23
+Donald_Rumsfeld 13 George_W_Bush 95
+Donald_Rumsfeld 15 Jennifer_Capriati 4
+Donald_Rumsfeld 15 Luiz_Inacio_Lula_da_Silva 17
+Donald_Rumsfeld 15 Vladimir_Putin 15
+Donald_Rumsfeld 16 Tony_Blair 53
+Donald_Rumsfeld 16 Tony_Blair 71
+Donald_Rumsfeld 17 Hans_Blix 21
+Donald_Rumsfeld 18 Gerhard_Schroeder 86
+Donald_Rumsfeld 18 Tony_Blair 128
+Donald_Rumsfeld 19 Junichiro_Koizumi 20
+Donald_Rumsfeld 23 Gerhard_Schroeder 90
+Donald_Rumsfeld 23 Tony_Blair 136
+Donald_Rumsfeld 24 Gerhard_Schroeder 9
+Donald_Rumsfeld 25 Rudolph_Giuliani 7
+Donald_Rumsfeld 26 Jean_Chretien 6
+Donald_Rumsfeld 27 George_W_Bush 329
+Donald_Rumsfeld 27 George_W_Bush 528
+Donald_Rumsfeld 28 Serena_Williams 13
+Donald_Rumsfeld 3 Tony_Blair 127
+Donald_Rumsfeld 3 Tony_Blair 64
+Donald_Rumsfeld 30 George_W_Bush 151
+Donald_Rumsfeld 31 Tony_Blair 79
+Donald_Rumsfeld 32 Gerhard_Schroeder 39
+Donald_Rumsfeld 32 Jerry_Pauley 1
+Donald_Rumsfeld 32 Tony_Blair 128
+Donald_Rumsfeld 34 George_W_Bush 373
+Donald_Rumsfeld 34 Vladimir_Putin 17
+Donald_Rumsfeld 37 Tony_Blair 118
+Donald_Rumsfeld 39 Junichiro_Koizumi 18
+Donald_Rumsfeld 39 Junichiro_Koizumi 35
+Donald_Rumsfeld 4 George_W_Bush 69
+Donald_Rumsfeld 40 Gerhard_Schroeder 64
+Donald_Rumsfeld 40 Serena_Williams 48
+Donald_Rumsfeld 41 Hugo_Chavez 7
+Donald_Rumsfeld 41 Jean_Chretien 51
+Donald_Rumsfeld 41 Junichiro_Koizumi 23
+Donald_Rumsfeld 42 Lleyton_Hewitt 38
+Donald_Rumsfeld 42 Mitchell_Potter 1
+Donald_Rumsfeld 43 Gerhard_Schroeder 79
+Donald_Rumsfeld 43 John_Ashcroft 8
+Donald_Rumsfeld 43 Tony_Blair 125
+Donald_Rumsfeld 44 Hugo_Chavez 65
+Donald_Rumsfeld 45 Junichiro_Koizumi 2
+Donald_Rumsfeld 45 Tony_Blair 60
+Donald_Rumsfeld 47 Gerhard_Schroeder 64
+Donald_Rumsfeld 48 Tony_Blair 14
+Donald_Rumsfeld 49 Jacques_Chirac 32
+Donald_Rumsfeld 5 George_W_Bush 343
+Donald_Rumsfeld 5 Junichiro_Koizumi 2
+Donald_Rumsfeld 51 Jean_Chretien 54
+Donald_Rumsfeld 57 George_W_Bush 115
+Donald_Rumsfeld 57 Gerhard_Schroeder 12
+Donald_Rumsfeld 58 Gerhard_Schroeder 6
+Donald_Rumsfeld 58 Tony_Blair 6
+Donald_Rumsfeld 6 George_W_Bush 13
+Donald_Rumsfeld 6 Gerhard_Schroeder 4
+Donald_Rumsfeld 61 George_W_Bush 197
+Donald_Rumsfeld 61 George_W_Bush 487
+Donald_Rumsfeld 62 Linda_Mason 1
+Donald_Rumsfeld 62 Vladimir_Putin 3
+Donald_Rumsfeld 63 Tony_Blair 57
+Donald_Rumsfeld 63 Tony_Blair 84
+Donald_Rumsfeld 64 George_W_Bush 289
+Donald_Rumsfeld 65 Serena_Williams 9
+Donald_Rumsfeld 66 George_W_Bush 447
+Donald_Rumsfeld 66 Gerhard_Schroeder 19
+Donald_Rumsfeld 66 Tony_Blair 42
+Donald_Rumsfeld 67 Hugo_Chavez 46
+Donald_Rumsfeld 67 Tony_Blair 2
+Donald_Rumsfeld 68 Hugo_Chavez 16
+Donald_Rumsfeld 68 Hugo_Chavez 25
+Donald_Rumsfeld 69 Gerhard_Schroeder 19
+Donald_Rumsfeld 69 Gerhard_Schroeder 32
+Donald_Rumsfeld 69 Vladimir_Putin 17
+Donald_Rumsfeld 7 Tony_Blair 5
+Donald_Rumsfeld 71 George_W_Bush 285
+Donald_Rumsfeld 71 Hugo_Chavez 16
+Donald_Rumsfeld 71 Hugo_Chavez 31
+Donald_Rumsfeld 72 George_W_Bush 222
+Donald_Rumsfeld 72 Hugo_Chavez 48
+Donald_Rumsfeld 72 Tony_Blair 11
+Donald_Rumsfeld 73 George_W_Bush 445
+Donald_Rumsfeld 73 Gerhard_Schroeder 69
+Donald_Rumsfeld 74 George_W_Bush 186
+Donald_Rumsfeld 74 Junichiro_Koizumi 40
+Donald_Rumsfeld 77 Tony_Blair 15
+Donald_Rumsfeld 8 George_W_Bush 444
+Donald_Rumsfeld 82 Hugo_Chavez 10
+Donald_Rumsfeld 85 George_W_Bush 164
+Donald_Rumsfeld 87 Tony_Blair 57
+Donald_Rumsfeld 88 Serena_Williams 39
+Donald_Rumsfeld 89 George_W_Bush 323
+Donald_Rumsfeld 89 Jennifer_Capriati 33
+Donald_Rumsfeld 9 Jean_Chretien 4
+Donald_Rumsfeld 90 George_W_Bush 370
+Donald_Rumsfeld 92 Gerhard_Schroeder 12
+Donald_Rumsfeld 92 Vladimir_Putin 23
+Donald_Rumsfeld 95 George_W_Bush 114
+Donald_Rumsfeld 95 Hugo_Chavez 64
+Donald_Rumsfeld 97 Hugo_Chavez 11
+Donald_Rumsfeld 98 George_W_Bush 52
+Donald_Rumsfeld 98 Junichiro_Koizumi 56
+Donald_Rumsfeld 99 Hans_Blix 22
+Donald_Rumsfeld 99 Tony_Blair 118
+Dora_Bakoyianni 1 Jason_Kidd 7
+Dora_Bakoyianni 1 Stephanie_Cohen_Aloro 1
+Doug_Christie 1 Frank_Shea 1
+Doug_Christie 1 Jerry_Jones 1
+Doug_Christie 1 Joao_Rocha 1
+Dragan_Covic 1 Gerard_de_Cortanze 1
+Dragan_Covic 1 Manuel_Rosendo 1
+Dragan_Covic 1 Sergei_Yushenkov 1
+Drew_Gooden 1 Jose_Maria_Aznar 13
+Drew_Gooden 1 Sushma_Swaraj 1
+Drew_Gooden 1 Vaclav_Havel 8
+Dyab_Abou_Jahjah 1 Greg_Kinsey 1
+Dyab_Abou_Jahjah 1 Juan_Pablo_Montoya 8
+Dyab_Abou_Jahjah 1 Laura_Bush 14
+Ed_Mekertichian 1 Hermando_Harton 1
+Ed_Mekertichian 1 Jacques_Rogge 5
+Ed_Mekertichian 1 Jeremy_Fogel 1
+Ed_Wade 1 Elizabeth_Berkeley 1
+Ed_Wade 1 Judy_Vassar 1
+Eddie_Lucio 1 Pablo_Khulental 1
+Eddie_Lucio 1 Wycliffe_Grousbeck 1
+Einars_Repse 1 Richard_Hellfant 1
+Einars_Repse 1 Winona_Ryder 16
+Ekke_Hard_Forberg 1 Linda_Mason 1
+Ekke_Hard_Forberg 1 Mohammed_Abulhasan 1
+Ekke_Hard_Forberg 1 Ricardo_Lagos 16
+Elena_Dementieva 1 Mohammad_Khatami 9
+Elena_Dementieva 1 Syed_Abdul_Rahman_Geelani 1
+Elisha_Cuthbert 1 Horace_Newcomb 1
+Elisha_Cuthbert 1 Mike_Stefanik 1
+Elisha_Cuthbert 1 Sergey_Lavrov 1
+Elizabeth_Berkeley 1 Francisco_Santos 1
+Elizabeth_Berkeley 1 Gabi_Zimmer 1
+Emma_Watson 2 Keith_Tyson 1
+Emma_Watson 2 Richard_Hellfant 1
+Emyr_Jones_Parry 1 Norah_Jones 9
+Emyr_Jones_Parry 1 Robert_Wiener 1
+Emyr_Jones_Parry 1 Wayne_Ferreira 1
+Enrica_Fico 1 John_Ashcroft 18
+Enrica_Fico 1 Wycliffe_Grousbeck 1
+Eric_Idle 1 Julie_Gerberding 8
+Eric_Idle 1 Mario_Vasquez_Rana 1
+Etta_James 1 Geoff_Hoon 6
+Etta_James 1 Hans_Blix 14
+Etta_James 1 Ricardo_Lagos 6
+Evelyn_Lauder 1 Frank_Abagnale_Jr 1
+Federico_Fellini 1 Jennifer_Capriati 16
+Federico_Fellini 1 Shamai_Leibowitz 1
+Felicity_Huffman 1 Iveta_Benesova 1
+Felicity_Huffman 1 Stephanie_Cohen_Aloro 1
+Felix_Trinidad 1 George_W_Bush 94
+Felix_Trinidad 1 Joe_Lieberman 1
+Felix_Trinidad 1 Mark_Everson 1
+Festus_Mogae 1 Gabi_Zimmer 1
+Festus_Mogae 1 Ivan_Helguera 1
+Festus_Mogae 1 Taufik_Kiemas 1
+Fidel_Castro 10 Jimmy_Szymanski 1
+Fidel_Castro 12 Rudolph_Giuliani 19
+Fidel_Castro 7 Hubie_Brown 1
+Floyd_Keith 1 Frank_Murkowski 1
+Francisco_Santos 1 Greg_Kinsey 1
+Francisco_Santos 1 Keith_Tyson 1
+Francisco_Urenda 1 Mark_Bellhorn 1
+Francisco_Urenda 1 Michael_Michele 1
+Francisco_Urenda 1 Yasushi_Akashi 1
+Francois_Botha 1 Julio_Cesar_Chavez 1
+Frank_Abagnale_Jr 1 Gabi_Zimmer 1
+Frank_Abagnale_Jr 1 Gloria_Macapagal_Arroyo 9
+Frank_Bell 1 Mark_Mariscal 1
+Frank_Bell 1 Vicente_Fox 12
+Frank_Murkowski 1 Rudolph_Giuliani 12
+Frank_Shea 1 Steven_Craig 1
+Fred_Durst 1 Geoff_Hoon 6
+Fred_Durst 1 John_Abizaid 8
+Fred_Durst 1 Michael_Andretti 1
+Freddy_Vasques_Kinchokpe 1 Jack_Straw 5
+Freddy_Vasques_Kinchokpe 1 Pete_Sampras 19
+Freddy_Vasques_Kinchokpe 1 Sam_Gerald 1
+Gabriel_Jorge_Ferreia 1 James_Blake 6
+Gabriel_Jorge_Ferreia 1 Jim_Nochols 1
+Gabriel_Jorge_Ferreia 1 Mohammed_Al-Douri 12
+George_Robertson 12 Holly_Hunter 4
+George_Robertson 12 JT_Snow 1
+George_W_Bush 108 Gerhard_Schroeder 3
+George_W_Bush 115 John_Ashcroft 27
+George_W_Bush 130 Jean_Chretien 35
+George_W_Bush 131 Hugo_Chavez 48
+George_W_Bush 135 Tony_Blair 120
+George_W_Bush 137 Tony_Blair 61
+George_W_Bush 137 Tony_Blair 76
+George_W_Bush 143 Jacques_Chirac 43
+George_W_Bush 143 John_Ashcroft 51
+George_W_Bush 144 Junichiro_Koizumi 50
+George_W_Bush 146 Gerhard_Schroeder 10
+George_W_Bush 153 Gerhard_Schroeder 105
+George_W_Bush 153 Gerhard_Schroeder 86
+George_W_Bush 158 Gerhard_Schroeder 89
+George_W_Bush 16 Junichiro_Koizumi 16
+George_W_Bush 160 Jacques_Chirac 35
+George_W_Bush 161 Tony_Blair 25
+George_W_Bush 162 Tony_Blair 17
+George_W_Bush 164 Tony_Blair 79
+George_W_Bush 18 Junichiro_Koizumi 30
+George_W_Bush 180 Jean_Chretien 34
+George_W_Bush 186 Gerhard_Schroeder 30
+George_W_Bush 192 Tony_Blair 115
+George_W_Bush 198 Vladimir_Putin 28
+George_W_Bush 20 John_Ashcroft 52
+George_W_Bush 201 Tony_Blair 133
+George_W_Bush 202 Hugo_Chavez 70
+George_W_Bush 210 Tony_Blair 21
+George_W_Bush 225 Junichiro_Koizumi 55
+George_W_Bush 234 Jacques_Chirac 11
+George_W_Bush 256 Tony_Blair 135
+George_W_Bush 272 Patricia_Phillips 1
+George_W_Bush 274 Tony_Blair 106
+George_W_Bush 280 Tony_Blair 140
+George_W_Bush 286 Serena_Williams 21
+George_W_Bush 297 Gerhard_Schroeder 22
+George_W_Bush 298 Hugo_Chavez 2
+George_W_Bush 301 Hugo_Chavez 33
+George_W_Bush 304 Gerhard_Schroeder 31
+George_W_Bush 308 Gerhard_Schroeder 18
+George_W_Bush 324 Hugo_Chavez 23
+George_W_Bush 332 Junichiro_Koizumi 20
+George_W_Bush 340 Tony_Blair 1
+George_W_Bush 343 Tony_Blair 74
+George_W_Bush 344 Tony_Blair 136
+George_W_Bush 346 Serena_Williams 9
+George_W_Bush 357 Jeremy_Greenstock 7
+George_W_Bush 36 Vladimir_Putin 46
+George_W_Bush 361 Hugo_Chavez 56
+George_W_Bush 364 Tony_Blair 141
+George_W_Bush 364 Tony_Blair 18
+George_W_Bush 365 Serena_Williams 39
+George_W_Bush 367 Tony_Blair 40
+George_W_Bush 369 Jean_Chretien 18
+George_W_Bush 375 Tony_Blair 119
+George_W_Bush 390 Lleyton_Hewitt 13
+George_W_Bush 396 Jennifer_Capriati 2
+George_W_Bush 398 Tony_Blair 56
+George_W_Bush 40 Lleyton_Hewitt 20
+George_W_Bush 415 Jean_Chretien 53
+George_W_Bush 416 Hugo_Chavez 48
+George_W_Bush 424 Hugo_Chavez 16
+George_W_Bush 432 Jacques_Chirac 7
+George_W_Bush 443 Gerhard_Schroeder 104
+George_W_Bush 445 Hugo_Chavez 52
+George_W_Bush 449 Gerhard_Schroeder 108
+George_W_Bush 450 Tony_Blair 11
+George_W_Bush 454 Tony_Blair 41
+George_W_Bush 458 Gerhard_Schroeder 20
+George_W_Bush 464 Hugo_Chavez 65
+George_W_Bush 468 Gerhard_Schroeder 20
+George_W_Bush 483 Gerhard_Schroeder 105
+George_W_Bush 506 Tony_Blair 70
+George_W_Bush 517 Hugo_Chavez 18
+George_W_Bush 524 John_Ashcroft 17
+George_W_Bush 524 Tony_Blair 3
+George_W_Bush 75 Gerhard_Schroeder 54
+George_W_Bush 76 Vladimir_Putin 11
+George_W_Bush 91 Gerhard_Schroeder 93
+George_W_Bush 96 Gerhard_Schroeder 3
+Gerard_de_Cortanze 1 Sergio_Vieira_De_Mello 10
+Gerhard_Schroeder 104 Jean_Chretien 5
+Gerhard_Schroeder 104 Tony_Blair 137
+Gerhard_Schroeder 108 Tony_Blair 60
+Gerhard_Schroeder 11 Hugo_Chavez 33
+Gerhard_Schroeder 14 Junichiro_Koizumi 27
+Gerhard_Schroeder 15 Luiz_Inacio_Lula_da_Silva 30
+Gerhard_Schroeder 16 Serena_Williams 18
+Gerhard_Schroeder 17 Tony_Blair 22
+Gerhard_Schroeder 18 Tony_Blair 54
+Gerhard_Schroeder 18 Tony_Blair 95
+Gerhard_Schroeder 2 Tony_Blair 66
+Gerhard_Schroeder 21 Jean_Chretien 9
+Gerhard_Schroeder 23 Serena_Williams 33
+Gerhard_Schroeder 25 Hugo_Chavez 18
+Gerhard_Schroeder 27 Tony_Blair 71
+Gerhard_Schroeder 28 Tony_Blair 1
+Gerhard_Schroeder 28 Vladimir_Putin 18
+Gerhard_Schroeder 29 Hugo_Chavez 57
+Gerhard_Schroeder 30 Tony_Blair 82
+Gerhard_Schroeder 31 Hugo_Chavez 67
+Gerhard_Schroeder 31 Nestor_Kirchner 2
+Gerhard_Schroeder 32 Hugo_Chavez 27
+Gerhard_Schroeder 35 Jean_Chretien 8
+Gerhard_Schroeder 35 Tony_Blair 98
+Gerhard_Schroeder 4 Nestor_Kirchner 28
+Gerhard_Schroeder 40 Hugo_Chavez 9
+Gerhard_Schroeder 40 Junichiro_Koizumi 35
+Gerhard_Schroeder 42 Junichiro_Koizumi 23
+Gerhard_Schroeder 42 Junichiro_Koizumi 49
+Gerhard_Schroeder 42 Lesley_Flood 1
+Gerhard_Schroeder 45 John_Ashcroft 6
+Gerhard_Schroeder 46 Tony_Blair 64
+Gerhard_Schroeder 5 Hugo_Chavez 12
+Gerhard_Schroeder 50 Serena_Williams 42
+Gerhard_Schroeder 51 Tony_Blair 5
+Gerhard_Schroeder 52 Junichiro_Koizumi 37
+Gerhard_Schroeder 54 Hugo_Chavez 14
+Gerhard_Schroeder 56 Serena_Williams 35
+Gerhard_Schroeder 57 John_Ashcroft 25
+Gerhard_Schroeder 58 Vladimir_Putin 32
+Gerhard_Schroeder 59 Jean_Chretien 22
+Gerhard_Schroeder 6 Hugo_Chavez 21
+Gerhard_Schroeder 6 Tony_Blair 60
+Gerhard_Schroeder 60 Junichiro_Koizumi 54
+Gerhard_Schroeder 60 Serena_Williams 34
+Gerhard_Schroeder 61 Hugo_Chavez 70
+Gerhard_Schroeder 62 Junichiro_Koizumi 24
+Gerhard_Schroeder 65 Jean_Chretien 51
+Gerhard_Schroeder 66 Serena_Williams 32
+Gerhard_Schroeder 69 Hugo_Chavez 28
+Gerhard_Schroeder 69 Serena_Williams 21
+Gerhard_Schroeder 70 Serena_Williams 40
+Gerhard_Schroeder 71 Hugo_Chavez 52
+Gerhard_Schroeder 71 John_Ashcroft 23
+Gerhard_Schroeder 71 Rudolph_Giuliani 23
+Gerhard_Schroeder 72 JT_Snow 1
+Gerhard_Schroeder 72 Tony_Blair 102
+Gerhard_Schroeder 72 Tony_Blair 14
+Gerhard_Schroeder 73 Junichiro_Koizumi 56
+Gerhard_Schroeder 73 Tony_Blair 100
+Gerhard_Schroeder 74 Tony_Blair 73
+Gerhard_Schroeder 77 Tom_Ridge 4
+Gerhard_Schroeder 78 Hugo_Chavez 8
+Gerhard_Schroeder 79 Tony_Blair 6
+Gerhard_Schroeder 81 Luiz_Inacio_Lula_da_Silva 9
+Gerhard_Schroeder 81 Serena_Williams 35
+Gerhard_Schroeder 81 Tony_Blair 103
+Gerhard_Schroeder 83 Jennifer_Capriati 24
+Gerhard_Schroeder 87 Gloria_Macapagal_Arroyo 20
+Gerhard_Schroeder 87 Tony_Blair 3
+Gerhard_Schroeder 87 Tony_Blair 42
+Gerhard_Schroeder 88 Jean_Chretien 4
+Gerhard_Schroeder 89 Tony_Blair 13
+Gerhard_Schroeder 90 Tony_Blair 78
+Gerhard_Schroeder 95 Kevin_Costner 4
+Gerhard_Schroeder 95 Tony_Blair 10
+Gerhard_Schroeder 99 Junichiro_Koizumi 47
+Gerhard_Schroeder 99 Tony_Blair 73
+Giselle_Estefania_Tavarelli 1 Jean-Francois_Lemounier 1
+Giselle_Estefania_Tavarelli 1 Louis_Van_Gaal 1
+Giselle_Estefania_Tavarelli 1 Nestor_Kirchner 17
+Glen_Clark 1 Hank_Azaria 1
+Glen_Clark 1 Sergei_Alexandrovitch_Ordzhonikidze 1
+Glenn_Plummer 1 Lleyton_Hewitt 4
+Glenn_Plummer 1 Nestor_Kirchner 1
+Glenn_Plummer 1 Raja_Zafar-ul-Haq 1
+Gloria_Macapagal_Arroyo 25 Julius_Erving 1
+Gloria_Macapagal_Arroyo 25 Junichiro_Koizumi 44
+Gloria_Macapagal_Arroyo 25 Louis_Van_Gaal 1
+Gloria_Macapagal_Arroyo 26 Luiz_Inacio_Lula_da_Silva 17
+Gloria_Macapagal_Arroyo 26 Tony_Blair 49
+Gloria_Macapagal_Arroyo 36 Luiz_Inacio_Lula_da_Silva 3
+Gloria_Macapagal_Arroyo 37 John_Ashcroft 38
+Gloria_Macapagal_Arroyo 4 Lleyton_Hewitt 19
+Gloria_Macapagal_Arroyo 4 Shafal_Mosed 1
+Gloria_Macapagal_Arroyo 40 Luiz_Inacio_Lula_da_Silva 42
+Gloria_Macapagal_Arroyo 6 Jean_Chretien 7
+Gloria_Macapagal_Arroyo 6 Tony_Blair 79
+Gloria_Macapagal_Arroyo 7 Serena_Williams 31
+Gloria_Macapagal_Arroyo 8 Serena_Williams 5
+Gloria_Macapagal_Arroyo 9 Imam_Samudra 1
+Gordon_Brown 3 Randy_Johnson 1
+Gordon_Brown 3 Robert_Wiener 1
+Grace_Brinell 1 Jerry_Jones 1
+Grace_Brinell 1 Peter_Medgyessy 1
+Grace_Brinell 1 Queen_Noor 1
+Gray_Davis 14 Richard_Gephardt 3
+Gregg_Berhalter 1 Hans_Blix 22
+Gregg_Berhalter 1 Owen_Nolan 1
+Guillermo_Ruiz_Polanco 1 John_Ashcroft 32
+Guillermo_Ruiz_Polanco 1 Nia_Vardalos 2
+Guillermo_Ruiz_Polanco 1 Sam_Gerald 1
+Hal_Gehman 3 Harrison_Ford 3
+Hal_Gehman 3 Heather_Locklear 1
+Hal_Gehman 3 Jose_Luis_Chilavert 1
+Hal_McCoy 1 Mona_Locke 1
+Hal_McCoy 1 Rafidah_Aziz 1
+Ham_Pong-sil 1 Hans_Blix 30
+Ham_Pong-sil 1 Howard_Dean 4
+Ham_Pong-sil 1 Tuncay_Sanli 1
+Han_Sung_Joo 1 Trisha_Meili 1
+Hank_Azaria 1 Norah_Jones 2
+Hank_Stram 1 Jaime_Pressly 1
+Hank_Stram 1 Julio_Cesar_Chavez 1
+Hank_Stram 1 Tony_Blair 80
+Hans-Christian_Schmid 1 Jacques_Chirac 47
+Hans-Christian_Schmid 1 Syed_Abdul_Rahman_Geelani 1
+Hans-Christian_Schmid 1 Vaclav_Havel 8
+Hans_Blix 11 Jacques_Chirac 16
+Hans_Blix 16 Junichiro_Koizumi 13
+Hans_Blix 16 Laura_Bush 15
+Hans_Blix 18 Lleyton_Hewitt 24
+Hans_Blix 18 Serena_Williams 3
+Hans_Blix 21 Tuncay_Sanli 1
+Hans_Blix 23 Jean_Chretien 35
+Hans_Blix 28 Luiz_Inacio_Lula_da_Silva 4
+Hans_Blix 30 Lance_Armstrong 12
+Hans_Blix 31 Junichiro_Koizumi 15
+Hans_Blix 31 Rudolph_Giuliani 8
+Hans_Blix 33 Salma_Hayek 8
+Hans_Blix 33 Sereyvuth_Kem 1
+Hans_Blix 37 Jerry_Bruckheimer 1
+Hans_Blix 38 Laura_Bush 34
+Hans_Blix 38 Luiz_Inacio_Lula_da_Silva 23
+Hans_Blix 4 John_Allen_Muhammad 5
+Hans_Blix 5 Jennifer_Capriati 16
+Harrison_Ford 1 Jason_Kidd 7
+Heather_Locklear 1 Kevin_Borseth 1
+Hector_Mitelman 1 Ray_Lewis 1
+Heinrich_Wolfgang 1 Mariano_Zabaleta 1
+Heinrich_Wolfgang 1 Patricia_Phillips 1
+Hermando_Harton 1 Jose_Luis_Chilavert 1
+Hermando_Harton 1 Yashwant_Sinha 2
+Holly_Hunter 4 Penelope_Taylor 1
+Holly_Hunter 4 Sean_OKeefe 5
+Horace_Newcomb 1 Raja_Zafar-ul-Haq 1
+Horace_Newcomb 1 Serena_Karlan 1
+Howard_Dean 4 Pervez_Musharraf 16
+Hu_Jintao 2 Irwan_Fadzi_Idris 1
+Hu_Jintao 2 William_Hyde 1
+Hubie_Brown 1 Javier_Solana 3
+Hubie_Brown 1 Sushma_Swaraj 1
+Hugo_Chavez 10 Robert_Blake 2
+Hugo_Chavez 12 Tony_Blair 107
+Hugo_Chavez 2 Junichiro_Koizumi 14
+Hugo_Chavez 2 Junichiro_Koizumi 26
+Hugo_Chavez 20 Luiz_Inacio_Lula_da_Silva 2
+Hugo_Chavez 20 Tony_Blair 50
+Hugo_Chavez 21 Jean_Chretien 36
+Hugo_Chavez 24 Junichiro_Koizumi 44
+Hugo_Chavez 26 Jennifer_Capriati 28
+Hugo_Chavez 26 Tony_Blair 26
+Hugo_Chavez 28 Sean_OKeefe 5
+Hugo_Chavez 3 John_Ashcroft 20
+Hugo_Chavez 3 Serena_Williams 32
+Hugo_Chavez 31 Jean_Chretien 25
+Hugo_Chavez 31 Tony_Blair 39
+Hugo_Chavez 37 Tony_Blair 40
+Hugo_Chavez 41 Serena_Williams 37
+Hugo_Chavez 41 Serena_Williams 8
+Hugo_Chavez 44 John_Ashcroft 41
+Hugo_Chavez 44 Serena_Williams 43
+Hugo_Chavez 45 John_Ashcroft 51
+Hugo_Chavez 45 Luiz_Inacio_Lula_da_Silva 18
+Hugo_Chavez 46 Junichiro_Koizumi 1
+Hugo_Chavez 46 Tony_Blair 47
+Hugo_Chavez 50 Jennifer_Capriati 30
+Hugo_Chavez 50 Tony_Blair 120
+Hugo_Chavez 53 Tony_Blair 68
+Hugo_Chavez 53 Tony_Blair 95
+Hugo_Chavez 55 Luiz_Inacio_Lula_da_Silva 29
+Hugo_Chavez 56 Tony_Blair 8
+Hugo_Chavez 57 Junichiro_Koizumi 24
+Hugo_Chavez 57 Junichiro_Koizumi 27
+Hugo_Chavez 58 Jean_Chretien 26
+Hugo_Chavez 58 Jean_Chretien 27
+Hugo_Chavez 6 Serena_Williams 41
+Hugo_Chavez 6 Tony_Blair 9
+Hugo_Chavez 67 Lleyton_Hewitt 20
+Hugo_Chavez 68 Junichiro_Koizumi 15
+Hugo_Chavez 68 Tony_Blair 67
+Hugo_Chavez 8 John_Ashcroft 3
+Hugo_Chavez 8 Tony_Blair 13
+Hugo_Chavez 9 Tony_Blair 28
+Ian_Campbell 1 Luiz_Inacio_Lula_da_Silva 44
+Ian_Campbell 1 Mia_Mottley 1
+Ian_Campbell 1 Toni_Jennings 1
+Ian_Thorpe 2 Jan_De_Bont 1
+Imam_Samudra 1 Mark_Mishkin 1
+Imam_Samudra 1 Tung_Chee-hwa 1
+Irwan_Fadzi_Idris 1 Karen_Sharpe_Kramer 1
+Ivan_Helguera 1 Robert_Blake 2
+Ivan_Helguera 1 SJ_Twu 1
+Iveta_Benesova 1 Tom_Miller 1
+Izzat_Ibrahim 1 James_Mathis 1
+Izzat_Ibrahim 1 Jason_Priestley 1
+Izzat_Ibrahim 1 Owen_Nolan 1
+Jackie_Chan 5 Park_Jung_Sung 1
+Jacqueline_Marris 1 John_Ashcroft 46
+Jacqueline_Marris 1 Mark_Mariscal 1
+Jacqueline_Marris 1 Roman_Tam 1
+Jacques_Chirac 11 Jennifer_Capriati 23
+Jacques_Chirac 11 Jennifer_Capriati 36
+Jacques_Chirac 16 Tammy_Helm 1
+Jacques_Chirac 18 Rudolph_Giuliani 2
+Jacques_Chirac 18 Vicente_Fox 22
+Jacques_Chirac 32 Manuel_Gehring 1
+Jacques_Chirac 32 Serena_Williams 44
+Jacques_Chirac 36 John_Ashcroft 39
+Jacques_Chirac 36 Lleyton_Hewitt 28
+Jacques_Chirac 39 Tang_Jiaxuan 11
+Jacques_Chirac 40 John_Ashcroft 41
+Jacques_Chirac 5 Rubens_Barrichello 10
+Jacques_Chirac 5 Silvan_Shalom 5
+Jacques_Chirac 51 John_Ashcroft 2
+Jacques_Chirac 51 Rudolph_Giuliani 23
+Jacques_Rogge 4 Megawati_Sukarnoputri 20
+Jacques_Rogge 4 Raja_Zafar-ul-Haq 1
+Jacques_Rogge 5 Meryl_Streep 4
+Jafar_Umar_Thalib 1 Tom_Miller 1
+Jaime_Pressly 1 Mary_Hill 1
+James_Blake 1 Robert_Wiener 1
+James_Blake 10 Jennifer_McCoy 1
+James_Mathis 1 Laurie_Chan 1
+Jan_De_Bont 1 Luther_Htu 1
+Jan_De_Bont 1 Sergei_Alexandrovitch_Ordzhonikidze 1
+Jason_Keep 1 Jennifer_Capriati 17
+Jason_Keep 1 Judy_Spreckels 1
+Jason_Keep 1 Rodney_Rempt 1
+Jason_Kidd 9 Syed_Ibrahim 1
+Jason_Priestley 1 Randy_Johnson 1
+Jason_Priestley 1 Richard_Myers 2
+Jean-Francois_Lemounier 1 Jennifer_Aniston 15
+Jean_Charest 9 Kathryn_Tucker 1
+Jean_Chretien 14 Junichiro_Koizumi 14
+Jean_Chretien 15 John_Ashcroft 1
+Jean_Chretien 2 Nestor_Kirchner 7
+Jean_Chretien 21 Laura_Bush 16
+Jean_Chretien 22 John_Ashcroft 15
+Jean_Chretien 25 Junichiro_Koizumi 54
+Jean_Chretien 26 Junichiro_Koizumi 58
+Jean_Chretien 26 Tony_Blair 10
+Jean_Chretien 27 Vicente_Fox 3
+Jean_Chretien 35 Junichiro_Koizumi 1
+Jean_Chretien 36 Junichiro_Koizumi 50
+Jean_Chretien 36 Luiz_Inacio_Lula_da_Silva 24
+Jean_Chretien 39 Park_Jung_Sung 1
+Jean_Chretien 4 Tony_Blair 9
+Jean_Chretien 42 Tony_Blair 39
+Jean_Chretien 46 Jennifer_Capriati 23
+Jean_Chretien 46 Vladimir_Putin 7
+Jean_Chretien 48 Tony_Blair 115
+Jean_Chretien 51 Serena_Williams 40
+Jean_Chretien 52 John_Ashcroft 17
+Jean_Chretien 6 Tony_Blair 143
+Jean_Chretien 7 Luiz_Inacio_Lula_da_Silva 30
+Jean_Chretien 8 Serena_Williams 30
+Jennie_Finch 1 Mike_Davis 1
+Jennie_Finch 1 Will_Ofenheusle 1
+Jennie_Garth 1 Li_Peng 8
+Jennie_Garth 1 Mahathir_Mohamad 13
+Jennifer_Aniston 15 Kevin_Borseth 1
+Jennifer_Capriati 12 Tony_Blair 140
+Jennifer_Capriati 17 Tony_Blair 76
+Jennifer_Capriati 18 Serena_Williams 21
+Jennifer_Capriati 20 Tony_Blair 100
+Jennifer_Capriati 21 William_Hyde 1
+Jennifer_Capriati 23 Rudolph_Giuliani 16
+Jennifer_Capriati 24 Junichiro_Koizumi 27
+Jennifer_Capriati 28 Vladimir_Ustinov 1
+Jennifer_Capriati 30 Vladimir_Putin 10
+Jennifer_Capriati 32 Junichiro_Koizumi 49
+Jennifer_Capriati 34 Luiz_Inacio_Lula_da_Silva 1
+Jennifer_Capriati 39 Tony_Blair 124
+Jennifer_Capriati 40 Laura_Bush 39
+Jennifer_Capriati 40 Vladimir_Putin 12
+Jennifer_McCoy 1 Joschka_Fischer 10
+Jennifer_McCoy 1 Perry_Gibbs 1
+Jeong_Se-hyun 5 Shimon_Peres 4
+Jeremy_Fogel 1 Mike_Weir 4
+Jeremy_Fogel 1 Nestor_Kirchner 8
+Jerry_Bruckheimer 1 Sergey_Lavrov 8
+Jerry_Bruckheimer 1 Trent_Lott 16
+Jerry_Jones 1 Rudolph_Giuliani 21
+Jerry_Pauley 1 Peter_Care 1
+Jiang_Zemin 11 Nicolas_Macrozonaris 1
+Jiang_Zemin 15 Lokendra_Bahadur_Chand 1
+Jim_Anderson 1 Julio_Cesar_Franco 1
+Jim_Anderson 1 Phillips_Idowu 1
+Jim_Nochols 1 Michael_Clarke_Duncan 1
+Jimmy_Szymanski 1 Judy_Vassar 1
+Joan_Laporta 7 Ryan_Newman 1
+Joan_Laporta 9 Jose_Maria_Aznar 16
+Joan_Laporta 9 Syed_Ibrahim 1
+Joao_Rocha 1 JT_Snow 1
+Joao_Rocha 1 Liza_Minnelli 3
+Joe_Friedberg 1 Juan_Carlos_Ferrero 2
+Joe_Friedberg 1 Luiz_Inacio_Lula_da_Silva 33
+Joe_Lieberman 1 Karen_Sharpe_Kramer 1
+Joe_Lieberman 1 Will_Ofenheusle 1
+Joel_Todd 1 Nick_Markakis 1
+Joel_Todd 1 Todd_Robbins 1
+Joel_Todd 1 Wayne_Allard 1
+John_Abizaid 1 Mario_Puzo 1
+John_Allen_Muhammad 5 Ray_Lewis 1
+John_Ashcroft 1 Junichiro_Koizumi 29
+John_Ashcroft 1 Tony_Blair 133
+John_Ashcroft 15 Tony_Blair 135
+John_Ashcroft 19 Luiz_Inacio_Lula_da_Silva 20
+John_Ashcroft 19 Vladimir_Putin 38
+John_Ashcroft 21 Tony_Blair 117
+John_Ashcroft 23 Junichiro_Koizumi 29
+John_Ashcroft 26 Tony_Blair 84
+John_Ashcroft 33 Tony_Blair 70
+John_Ashcroft 38 Junichiro_Koizumi 7
+John_Ashcroft 38 Raaf_Schefter 1
+John_Ashcroft 4 Kevin_Costner 4
+John_Ashcroft 43 Serena_Williams 11
+John_Ashcroft 47 Vladimir_Putin 27
+John_Ashcroft 52 Kirk_Franklin 1
+John_Ashcroft 7 Vladimir_Putin 12
+John_Ashcroft 8 Serena_Williams 11
+John_Ashcroft 8 Serena_Williams 48
+John_Ashcroft 9 Junichiro_Koizumi 38
+John_Bolton 13 Stella_McCartney 1
+John_Bolton 13 Willis_Roberts 1
+John_Bolton 14 Stuart_Whitman 1
+John_Kerry 10 Richard_Greenberg 1
+John_Sidgmore 1 Juan_Pablo_Montoya 6
+John_Sidgmore 1 Keith_Lockhart 1
+John_Sidgmore 1 Roger_Corbett 1
+Jose_Carlo_Fernandez 1 Junichiro_Koizumi 47
+Jose_Carlo_Fernandez 1 Mike_Stefanik 1
+Jose_Maria_Aznar 13 Toni_Jennings 1
+Joseph_Salgado 1 Tina_Pisnik 1
+Juan_Carlos_Ferrero 11 Mohammad_Khatami 9
+Juan_Carlos_Ferrero 13 Nestor_Kirchner 20
+Juan_Carlos_Ferrero 14 Nestor_Kirchner 6
+Juan_Pablo_Montoya 8 Walt_Harris 1
+Judy_Spreckels 1 Max_von_Sydow 1
+Judy_Vassar 1 Vicente_Fox 12
+Julie_Gerberding 8 Lima_Azimi 1
+Julie_Gerberding 8 Mark_Everson 1
+Julio_Cesar_Chavez 1 Peter_Ueberroth 1
+Julio_Cesar_Franco 1 Sananda_Maitreya 1
+Julius_Erving 1 Mike_Weir 5
+Julius_Erving 1 Ricardo_Lagos 6
+Junichiro_Koizumi 10 Tony_Blair 26
+Junichiro_Koizumi 14 Serena_Williams 11
+Junichiro_Koizumi 16 Tony_Blair 117
+Junichiro_Koizumi 16 Tony_Blair 59
+Junichiro_Koizumi 17 Serena_Williams 36
+Junichiro_Koizumi 17 Tony_Blair 100
+Junichiro_Koizumi 17 Tony_Blair 107
+Junichiro_Koizumi 20 Peter_Care 1
+Junichiro_Koizumi 21 Rainer_Gut 1
+Junichiro_Koizumi 24 Serena_Williams 13
+Junichiro_Koizumi 26 Serena_Williams 40
+Junichiro_Koizumi 3 Laura_Bush 34
+Junichiro_Koizumi 30 Spike_Helmick 1
+Junichiro_Koizumi 35 Luiz_Inacio_Lula_da_Silva 7
+Junichiro_Koizumi 38 Luiz_Inacio_Lula_da_Silva 11
+Junichiro_Koizumi 41 Sterling_Hitchcock 1
+Junichiro_Koizumi 42 Tony_Blair 97
+Junichiro_Koizumi 43 Tony_Blair 143
+Junichiro_Koizumi 46 Luiz_Inacio_Lula_da_Silva 39
+Junichiro_Koizumi 49 Naomi_Watts 9
+Junichiro_Koizumi 53 Luiz_Inacio_Lula_da_Silva 20
+Junichiro_Koizumi 56 Serena_Williams 9
+Junichiro_Koizumi 58 Tony_Blair 66
+Junichiro_Koizumi 6 Luiz_Inacio_Lula_da_Silva 17
+Justin_Timberlake 1 Sereyvuth_Kem 1
+Justin_Timberlake 4 Nicanor_Duarte_Frutos 4
+Justin_Timberlake 7 Michael_Michele 1
+Karen_Sharpe_Kramer 1 Pierce_Brosnan 11
+Kate_Richardson 1 Robert_Vowler 1
+Kate_Richardson 1 Tom_Cruise 4
+Kathryn_Tucker 1 Richard_Gephardt 3
+Kathryn_Tucker 1 Timothy_Wirth 1
+Keiko_Sofia_Fujimori 1 Mike_Davis 1
+Keiko_Sofia_Fujimori 1 Richard_Armitage 2
+Keith_Lockhart 1 Perry_Gibbs 1
+Keith_Lockhart 1 Tom_Tunney 1
+Keith_Tyson 1 Newt_Gingrich 1
+Kevin_Borseth 1 Pervez_Musharraf 3
+Kevin_Costner 4 Val_Ackerman 1
+Kim_Chinn 1 Tom_Ridge 12
+Kim_Hong-up 1 Nicole_Kidman 18
+Kim_Hong-up 1 Suzanne_Torrance 1
+Kirk_Franklin 1 Tara_Kirk 1
+Kirk_Franklin 1 Tiger_Woods 9
+Koichiro_Matsuura 1 Taha_Yassin_Ramadan 5
+Lance_Armstrong 14 Luiz_Inacio_Lula_da_Silva 12
+Larry_Tanenbaum 1 Stella_McCartney 1
+Laura_Bush 11 Luiz_Inacio_Lula_da_Silva 23
+Laura_Bush 15 Nestor_Kirchner 7
+Laura_Bush 16 Lleyton_Hewitt 15
+Laura_Bush 25 Lleyton_Hewitt 20
+Laura_Bush 34 Rodney_Dangerfield 1
+Laura_Bush 35 Tony_Blair 13
+Laura_Bush 6 Raaf_Schefter 1
+Laura_Bush 6 Vladimir_Putin 7
+Laurie_Chan 1 Robbie_Naish 1
+Laurie_Chan 1 Steven_Craig 1
+Lene_Espersen 1 Meryl_Streep 10
+Lene_Espersen 1 Rafidah_Aziz 1
+Lene_Espersen 1 Saddam_Hussein 5
+Leonardo_Fernandez 1 Patrick_Dennehy 1
+Leonardo_Fernandez 1 Shimon_Peres 4
+Lesley_Flood 1 Michel_Kratochvil 1
+Lesley_Flood 1 Vladimir_Putin 21
+Linda_Dano 1 Lleyton_Hewitt 37
+Linda_Dano 1 Talal_Keenaan 1
+Linda_Mason 1 Luther_Htu 1
+Linn_Thornton 1 Meryl_Streep 1
+Liza_Minnelli 3 Michael_Andretti 1
+Liza_Minnelli 3 Newton_Carlton_Slawson 1
+Lleyton_Hewitt 1 Vladimir_Putin 46
+Lleyton_Hewitt 19 Vladimir_Putin 32
+Lleyton_Hewitt 24 Tony_Blair 17
+Lleyton_Hewitt 24 Vladimir_Putin 28
+Lleyton_Hewitt 28 Richard_Greenberg 1
+Lleyton_Hewitt 3 Mark_Philippoussis 11
+Lleyton_Hewitt 38 Tom_Ridge 26
+Lokendra_Bahadur_Chand 1 Max_von_Sydow 1
+Louis_Van_Gaal 1 Yashwant_Sinha 2
+Lucio_Angulo 1 Shimon_Peres 4
+Lucio_Gutierrez 3 Tom_Ridge 12
+Lucio_Gutierrez 8 Trisha_Meili 1
+Lucio_Gutierrez 8 Yolanda_King 1
+Luiz_Inacio_Lula_da_Silva 10 Serena_Williams 10
+Luiz_Inacio_Lula_da_Silva 11 Rudolph_Giuliani 23
+Luiz_Inacio_Lula_da_Silva 16 Tony_Blair 93
+Luiz_Inacio_Lula_da_Silva 2 Serena_Williams 44
+Luiz_Inacio_Lula_da_Silva 23 Nestor_Kirchner 6
+Luiz_Inacio_Lula_da_Silva 29 Tony_Blair 23
+Luiz_Inacio_Lula_da_Silva 32 Yolanda_King 1
+Luiz_Inacio_Lula_da_Silva 41 Shinya_Taniguchi 1
+Luiz_Inacio_Lula_da_Silva 41 Todd_MacCulloch 1
+Luiz_Inacio_Lula_da_Silva 5 Serena_Williams 43
+Luiz_Inacio_Lula_da_Silva 7 Vladimir_Putin 13
+Luther_Htu 1 Marie-Josee_Croze 1
+Mahathir_Mohamad 6 Yana_Klochkova 1
+Mahmoud_Abbas 15 Pierre_Lacroix 1
+Manuel_Gehring 1 Vladimir_Putin 19
+Manuel_Rosendo 1 Sergei_Alexandrovitch_Ordzhonikidze 1
+Manuel_Rosendo 1 Tom_Ridge 26
+Margaret_Hoelzer 1 Natasha_Henstridge 1
+Mariano_Zabaleta 1 Spike_Helmick 1
+Marie-Josee_Croze 1 Tony_Blair 89
+Mario_Lobo_Zagallo 1 Nikki_Cascone 1
+Mario_Lobo_Zagallo 1 Robert_Redford 5
+Mario_Vasquez_Rana 1 Mark_Bellhorn 1
+Mark_Bellhorn 1 Thad_Matta 1
+Mark_Everson 1 Toni_Jennings 1
+Mark_Mariscal 1 Nicolas_Macrozonaris 1
+Mark_Martin 1 Nikki_Cascone 1
+Mark_Mishkin 1 Peter_Care 1
+Mark_Mishkin 1 Tony_Blair 141
+Mark_Philippoussis 9 Walt_Harris 1
+Mary_Hill 1 Mohammed_Abulhasan 1
+Max_von_Sydow 1 Silvan_Shalom 3
+Mia_Mottley 1 Talal_Keenaan 1
+Mia_Mottley 1 Yasushi_Akashi 1
+Michael_Andretti 1 Mike_Alden 1
+Michael_Arif 1 Peter_Fisher 1
+Michael_Arif 1 Stuart_Whitman 1
+Michael_Clarke_Duncan 1 Mohammed_Abulhasan 1
+Michael_Clarke_Duncan 1 Nicola_Wells 1
+Michael_J_Fox 1 Naomi_Watts 19
+Michael_J_Fox 1 Queen_Elizabeth_II 6
+Michael_J_Fox 1 Val_Ackerman 1
+Michael_Jackson 1 Wen_Jiabao 3
+Michael_Schumacher 1 Sergei_Yushenkov 1
+Michel_Kratochvil 1 Nestor_Kirchner 12
+Mike_Alden 1 Peter_Fisher 1
+Mike_Alden 1 Wen_Jiabao 8
+Mike_Davis 1 Prince_Philippe 1
+Mike_Weir 5 Roger_Corbett 1
+Mohammad_Khatami 9 Patrick_Dennehy 1
+Mohammed_Dahlan 1 Wen_Jiabao 9
+Mona_Locke 1 Spike_Helmick 1
+Mona_Locke 1 Wayne_Ferreira 1
+Nancy_Powell 1 Sergey_Lavrov 8
+Nancy_Powell 1 Vicente_Fox 29
+Natasha_Henstridge 1 Pedro_Pauleta 1
+Natasha_Henstridge 1 Rubens_Barrichello 10
+Nestor_Kirchner 13 Tom_Tunney 1
+Nestor_Kirchner 2 Vicente_Fox 6
+Newton_Carlton_Slawson 1 Suk_Chung_Hong 1
+Nia_Vardalos 2 Paul_McCartney 7
+Nicanor_Duarte_Frutos 11 Nino_DAngelo 1
+Nicanor_Duarte_Frutos 11 Recep_Tayyip_Erdogan 26
+Nicanor_Duarte_Frutos 4 Rodney_Rempt 1
+Nick_Cassavetes 1 Syed_Ibrahim 1
+Nick_Markakis 1 Pierce_Brosnan 6
+Nick_Markakis 1 Ryan_Newman 1
+Nicola_Wells 1 Scott_Hoch 1
+Nicola_Wells 1 Willis_Roberts 1
+Nicolas_Macrozonaris 1 Paul_McCartney 7
+Nicole_Kidman 7 Pedro_Pauleta 1
+Nino_DAngelo 1 Robert_Schuller 1
+Nizar_Trabelsi 1 Paul_McCartney 7
+Oliver_Phelps 1 Queen_Noor 1
+Oliver_Phelps 1 Tatjana_Gsell 1
+Ozzie_Smith 1 Terry_Gilliam 1
+Pablo_Khulental 1 Trent_Lott 16
+Pablo_Khulental 1 Yolanda_King 1
+Paul_Desmarais 1 Pierre_Lacroix 1
+Paul_Desmarais 1 Yana_Klochkova 1
+Penelope_Taylor 1 Reina_Hayes 1
+Pete_Sampras 15 Talal_Keenaan 1
+Peter_Fisher 1 Rick_Reed 1
+Peter_Medgyessy 1 Wayne_Allard 1
+Peter_Ueberroth 1 Tuncay_Sanli 1
+Phillips_Idowu 1 Roman_Tam 1
+Pierce_Brosnan 9 Vladimir_Putin 27
+Pierre_Lacroix 1 Suzanne_Torrance 1
+Prince_Philippe 1 Richard_Armitage 2
+Prince_Philippe 1 Tom_Ridge 30
+Rafidah_Aziz 1 Tony_Blair 37
+Rainer_Gut 1 Valorie_Brabazon 1
+Randy_Johnson 1 Vaclav_Havel 8
+Ray_Lewis 1 Terry_Gilliam 1
+Ray_Romano 5 Terry_Bradshaw 1
+Ray_Romano 5 Tiger_Woods 9
+Reina_Hayes 1 Vicente_Fox 13
+Ricardo_Lagos 8 Sereyvuth_Kem 1
+Richard_Armitage 2 Tony_Blair 126
+Richard_Gephardt 3 Sananda_Maitreya 1
+Rick_Reed 1 Rodney_Rempt 1
+Robbie_Naish 1 Vladimir_Putin 44
+Robert_Blake 2 Vicente_Fox 3
+Robert_Redford 5 Steve_Shiver 1
+Robert_Schuller 1 Silvan_Shalom 3
+Robert_Vowler 1 Trent_Lott 8
+Rodney_Dangerfield 1 Tatjana_Gsell 1
+Rodney_Dangerfield 1 Tung_Chee-hwa 2
+Roger_Corbett 1 Roger_Winter 1
+Roger_Winter 1 Thomas_OBrien 5
+Rose_Linkins 1 Tatjana_Gsell 1
+Rose_Linkins 1 Valorie_Brabazon 1
+Rubens_Barrichello 10 Todd_MacCulloch 1
+Rudolph_Giuliani 15 Tony_Blair 101
+Rudolph_Giuliani 2 Serena_Williams 28
+Rudolph_Giuliani 21 Vicente_Fox 15
+Saddam_Hussein 3 SJ_Twu 1
+Saeed_Anwar 1 Sushma_Swaraj 1
+Serena_Williams 13 Vladimir_Putin 8
+Serena_Williams 18 Tony_Blair 28
+Serena_Williams 18 Vladimir_Putin 45
+Serena_Williams 2 Tony_Blair 74
+Serena_Williams 3 Tony_Blair 138
+Serena_Williams 30 Vladimir_Putin 43
+Serena_Williams 32 Tony_Blair 35
+Serena_Williams 33 Tony_Blair 120
+Serena_Williams 33 Tony_Blair 133
+Serena_Williams 37 Vladimir_Putin 15
+Serena_Williams 39 Vladimir_Putin 30
+Serena_Williams 45 Vladimir_Putin 9
+Serena_Williams 52 Tony_Blair 52
+Serena_Williams 52 Vladimir_Putin 18
+Sergio_Vieira_De_Mello 10 Suzanne_Torrance 1
+Shamai_Leibowitz 1 Val_Ackerman 1
+Shaun_Rusling 1 Terry_Gilliam 1
+Shaun_Rusling 1 Trent_Lott 8
+Shinya_Taniguchi 1 Todd_Robbins 1
+Sterling_Hitchcock 1 Trisha_Meili 1
+Steve_Shiver 1 Willis_Roberts 1
+Steven_Spielberg 2 Terry_Bradshaw 1
+Stuart_Whitman 1 Wycliffe_Grousbeck 1
+Suk_Chung_Hong 1 Taha_Yassin_Ramadan 8
+Suk_Chung_Hong 1 Thad_Matta 1
+Tammy_Helm 1 Wayne_Ferreira 1
+Tang_Jiaxuan 11 Tom_Tunney 1
+Tara_Kirk 1 Tommy_Thompson 2
+Thomas_OBrien 5 Wayne_Allard 1
+Tina_Pisnik 1 William_Hyde 1
+Tina_Pisnik 1 Yashwant_Sinha 2
+Todd_MacCulloch 1 Yana_Klochkova 1
+Tom_Daschle 13 Yasushi_Akashi 1
+Tom_Miller 1 Werner_Schlager 1
+Tom_Ridge 4 Vicente_Fox 13
+Tommy_Thompson 2 Tung_Chee-hwa 1
+Tony_Blair 135 Vladimir_Putin 5
+Tony_Blair 140 Vladimir_Putin 3
+Tony_Blair 18 Vladimir_Putin 30
+Tony_Blair 80 Vladimir_Putin 18
+Vicente_Fox 15 Vladimir_Putin 39
+Victor_Garber 1 Wallace_Capel 1
