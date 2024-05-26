@@ -133,6 +133,21 @@ def get_metrics(y_true, y_pred, threshold_interval=0.001):
   return results
 
 
+def print_res(thres, cm, metric, name):
+  print(f"Highest {name}: {metric.max():.4f} at {thres[metric.argmax()]:.4f} threshold.")
+  print("Confusion matrix:")
+  print(cm[metric.argmax()].reshape((2, 2)))
+
+
+def summary(metrics_data):
+  thres = metrics_data[:, 0]
+  cms = metrics_data[:, 1:5]
+
+  for metric, metric_name in zip(metrics_data[:, 5:].T, METRICS):
+    print_res(thres, cms, metric, metric_name)
+    print("")
+
+
 def load_images(pair_list_file, imgs_dir, preprocess=True, face_only=False):
   image_loader = ImageLoader(pair_list_file, imgs_dir, preprocess=preprocess, crop_face=face_only)
   pairs = []
@@ -179,6 +194,10 @@ def main_no_infer(args):
       y_true.append(y_t)
       y_pred.append(y_p)
     metrics_data = get_metrics(np.array(y_true).astype(int), np.array(y_pred).astype(float), args.threshold_interval)
+
+    print(f"\nSummary for weight {out_dir.name}")
+    summary(metrics_data)
+
     if args.no_save:
       continue
     save_metrics_data(metrics_data, out_dir)
@@ -198,12 +217,18 @@ def main(args):
     net.set_weight(weight)
     y_pred = net.predict(x_test, batch_size=args.batch_size)
     metrics_data = get_metrics(y_true, y_pred, args.threshold_interval)
+
+    print(f"\nSummary for weight {weight.name}")
+    summary(metrics_data)
+
     if args.no_save:
       continue
     out_dir = output_dir / f"{weight.name}.bs_{args.batch_size}.faceonly_{int(args.face_only)}"
     out_dir.mkdir(exist_ok=True, parents=True)
     save_inference_data(pairs, y_true, y_pred, out_dir)
     save_metrics_data(metrics_data, out_dir)
+    for i, metric in enumerate(METRICS):
+      plot_curve(metrics_data[:, 0], metrics_data[:, i+5], (out_dir/f"{metric}_curve.png"), ylabel=metric)
 
 
 if __name__ == "__main__":
