@@ -214,6 +214,10 @@ def main(args):
   net = Siamese()
   pairs, x_test, y_true = load_images(pair_list, data_dir, face_only=args.face_only)
   for weight in weights_dir.iterdir():
+    if weight.is_dir():
+      continue
+    if weight.suffix != ".h5":
+      continue
     net.set_weight(weight)
     y_pred = net.predict(x_test, batch_size=args.batch_size)
     metrics_data = get_metrics(y_true, y_pred, args.threshold_interval)
