@@ -1,6 +1,5 @@
 from itertools import cycle
 import matplotlib.pyplot as plt
-import numpy as np
 
 def plot_curve(px, py, save_dir="curve.png", xlabel="Threshold", ylabel="Metric"):
   fig, ax = plt.subplots(1, 1, figsize=(9, 6), tight_layout=True)
@@ -25,6 +24,22 @@ def plot_curve(px, py, save_dir="curve.png", xlabel="Threshold", ylabel="Metric"
   ax.set_xlim(0, 1.1)
   ax.set_ylim(0, 1.1)
   ax.grid(True, "both", "both")
-  plt.legend(shadow=True, fancybox=True, bbox_to_anchor=(0.5, -0.1), loc="upper center", ncols=2)
+  ax.legend(shadow=True, fancybox=True, bbox_to_anchor=(0.5, -0.1), loc="upper center", ncols=2)
   fig.savefig(save_dir, dpi=250)
   plt.close()
+
+def plot_roc(fpr, tpr, auc, save_dir="ROC_Curve.png"):
+  fig, ax = plt.subplots(1, 1, figsize=(7, 6), tight_layout=True)
+  ax.set_title(f"ROC Curve, AUC = {auc:.4f}")
+  ax.plot(fpr, tpr, label=f"AUC = {auc:.4f}")
+  ax.plot([0, 1], [0, 1], 'k--', lw=1)
+  ax.set_ylabel('Recall')
+  ax.set_xlabel('1 - Specificity')
+  ax.set_xlim([0, 1])
+  ax.set_ylim([0, 1.05])
+  ax.tick_params()
+  ax.grid(True)
+  ax.legend(shadow=True, fancybox=True, loc=4)
+  fig.savefig(save_dir, dpi=250)
+  plt.close()
+

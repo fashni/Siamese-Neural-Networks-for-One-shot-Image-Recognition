@@ -7,7 +7,7 @@ import numpy as np
 from tqdm import tqdm
 
 from metrics import *
-from plot import plot_curve
+from plot import plot_curve, plot_roc
 from siamese_network import SiameseNetwork
 
 for sp in site.getsitepackages():
@@ -61,18 +61,30 @@ class ImageLoader:
       lines = f.readlines()
 
     self.nb_pairs = len(lines)
+    self.nb_n_pairs = 0
+    self.uniq_imgs = []
+    self.uniq_ppl = []
     self.pairs = []
     for line in lines:
       line = line.split()
       if len(line) == 4:
         cls = 0
         p1, a, p2, b = line
+        self.nb_n_pairs += 1
+        self.uniq_ppl.append(p1)
+        self.uniq_ppl.append(p2)
       elif len(line) == 3:
         cls = 1
         p1, a, b = line
         p2 = None
+        self.uniq_ppl.append(p1)
       p2 = p2 or p1
       self.pairs.append([[p1, a, p2, b], cls])
+      self.uniq_imgs.append(f"{p1}_{a}")
+      self.uniq_imgs.append(f"{p2}_{b}")
+    self.nb_p_pairs = self.nb_pairs - self.nb_n_pairs
+    self.uniq_imgs = list(set(self.uniq_imgs))
+    self.uniq_ppl = list(set(self.uniq_ppl))
 
   def __iter__(self):
     self.count = 0
@@ -111,12 +123,21 @@ class ImageLoader:
     img = cv2.resize(img, (105, 105))
     return img.reshape(105, 105, 1).astype(np.float64)
 
+  def _summary(self):
+    print("Dataset summary")
+    print(f"Image pairs: {self.nb_pairs}")
+    print(f"Positive pairs: {self.nb_p_pairs}")
+    print(f"Negative pairs: {self.nb_n_pairs}")
+    print(f"Unique images: {len(self.uniq_imgs)}")
+    print(f"Unique people: {len(self.uniq_ppl)}")
+    print("")
+
 
 def get_metrics(y_true, y_pred, threshold_interval=0.001):
   labels = [0, 1]
   thresholds = np.arange(0, 1, threshold_interval)
   results = np.zeros((thresholds.size, 12))
-  for i, threshold in enumerate(thresholds):
+  for i, threshold in tqdm(enumerate(thresholds), desc="Calculating metrics...", total=thresholds.size):
     preds = y_pred > threshold
     prc = precision(y_true, preds, labels)           # (positive predictive value)
     rec = recall(y_true, preds, labels)              # (true positive rate or sensitivity)
@@ -130,7 +151,8 @@ def get_metrics(y_true, y_pred, threshold_interval=0.001):
     results[i, 1:5] = get_cm(y_true, preds, labels)
     for j, mt in enumerate([prc, rec, spc, f1, f2, fh, acc]):
       results[i, j+5] = mt
-  return results
+
+  return results, roc(y_true, y_pred)
 
 
 def print_res(thres, cm, metric, name):
@@ -150,6 +172,7 @@ def summary(metrics_data):
 
 def load_images(pair_list_file, imgs_dir, preprocess=True, face_only=False):
   image_loader = ImageLoader(pair_list_file, imgs_dir, preprocess=preprocess, crop_face=face_only)
+  image_loader._summary()
   pairs = []
   x_test = []
   y_true = []
@@ -174,6 +197,13 @@ def save_metrics_data(metrics_data, output_dir):
       f.write(",".join(row.astype(str))+'\n')
 
 
+def save_roc_data(fpr, tpr, auc, output_dir):
+  with (output_dir / f"ROC_AUC_{auc:.4f}.csv").open("w") as f:
+    f.write("fpr, tpr\n")
+    for fp, tp in zip(fpr, tpr):
+      f.write(f"{fp},{tp}\n")
+
+
 def main_no_infer(args):
   output_dir = Path(args.output_dir)
   for out_dir in output_dir.iterdir():
@@ -193,16 +223,20 @@ def main_no_infer(args):
       pairs.append(pair)
       y_true.append(y_t)
       y_pred.append(y_p)
-    metrics_data = get_metrics(np.array(y_true).astype(int), np.array(y_pred).astype(float), args.threshold_interval)
+    metrics_data, rocs = get_metrics(np.array(y_true).astype(int), np.array(y_pred).astype(float), args.threshold_interval)
 
-    print(f"\nSummary for weight {out_dir.name}")
+    print(f"Summary for weight {out_dir.name}")
     summary(metrics_data)
 
     if args.no_save:
       continue
     save_metrics_data(metrics_data, out_dir)
+    save_roc_data(*rocs, out_dir)
+    plot_roc(*rocs, out_dir/f"ROC_curve.png")
     for i, metric in enumerate(METRICS):
       plot_curve(metrics_data[:, 0], metrics_data[:, i+5], (out_dir/f"{metric}_curve.png"), ylabel=metric)
+  if not args.no_save:
+    print(f"Results saved in {str(output_dir.absolute())}")
 
 
 def main(args):
@@ -220,9 +254,9 @@ def main(args):
       continue
     net.set_weight(weight)
     y_pred = net.predict(x_test, batch_size=args.batch_size)
-    metrics_data = get_metrics(y_true, y_pred, args.threshold_interval)
+    metrics_data, rocs = get_metrics(y_true, y_pred, args.threshold_interval)
 
-    print(f"\nSummary for weight {weight.name}")
+    print(f"Summary for weight {weight.name}")
     summary(metrics_data)
 
     if args.no_save:
@@ -231,8 +265,12 @@ def main(args):
     out_dir.mkdir(exist_ok=True, parents=True)
     save_inference_data(pairs, y_true, y_pred, out_dir)
     save_metrics_data(metrics_data, out_dir)
+    save_roc_data(*rocs, out_dir)
+    plot_roc(*rocs, out_dir/f"ROC_curve.png")
     for i, metric in enumerate(METRICS):
       plot_curve(metrics_data[:, 0], metrics_data[:, i+5], (out_dir/f"{metric}_curve.png"), ylabel=metric)
+  if not args.no_save:
+    print(f"Results saved in {str(output_dir.absolute())}")
 
 
 if __name__ == "__main__":
@@ -240,7 +278,7 @@ if __name__ == "__main__":
   parser.add_argument("-w", "--weights-dir", type=str, default="lfw2/weights", help="Saved weights directory")
   parser.add_argument("-d", "--dataset-dir", type=str, default="lfw2/lfw2", help="Dataset directory")
   parser.add_argument("-p", "--img-pair-list", type=str, default="lfw2/splits/test.txt", help="Text file containing the list of the image pairs")
-  parser.add_argument("-b", "--batch-size", type=int, default=1, help="Batch size for inference")
+  parser.add_argument("-b", "--batch-size", type=int, default=32, help="Batch size for inference")
   parser.add_argument("-t", "--threshold-interval", type=float, default=0.001, help="Threshold interval")
   parser.add_argument("-o", "--output-dir", type=str, default="results", help="Directory to save the results")
   parser.add_argument("-f", "--face-only", action="store_true", help="Isolate the face before inference")
