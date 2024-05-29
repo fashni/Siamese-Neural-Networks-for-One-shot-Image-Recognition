@@ -133,26 +133,26 @@ class ImageLoader:
     print("")
 
 
-def get_metrics(y_true, y_pred, threshold_interval=0.001):
-  labels = [0, 1]
-  thresholds = np.arange(0, 1, threshold_interval)
+def calculate_metrics(y_t, y_p):
+  cm = get_cm(y_t, y_p, labels=[0, 1])
+  prc = precision(cm=cm)           # (positive predictive value)
+  rec = recall(cm=cm)              # (true positive rate or sensitivity)
+  spc = specificity(cm=cm)         # (true negative rate)
+  f1 = f_score(cm=cm)              # p & r are of equal importance
+  f2 = f_score(cm=cm, beta=2)      # recall is twice as important
+  fh = f_score(cm=cm, beta=0.5)    # precision is twice as important
+  acc = accuracy(cm=cm)
+  return np.hstack((cm, [prc, rec, spc, f1, f2, fh, acc]))
+
+
+def get_metrics(y_true, y_pred):
+  rocs = roc(y_true, y_pred)
+  thresholds = rocs[-1][1:]
   results = np.zeros((thresholds.size, 12))
   for i, threshold in tqdm(enumerate(thresholds), desc="Calculating metrics...", total=thresholds.size):
-    preds = y_pred > threshold
-    prc = precision(y_true, preds, labels)           # (positive predictive value)
-    rec = recall(y_true, preds, labels)              # (true positive rate or sensitivity)
-    spc = specificity(y_true, preds, labels)         # (true negative rate)
-    f1 = f_score(y_true, preds, labels)              # p & r are of equal importance
-    f2 = f_score(y_true, preds, labels, beta=2)      # recall is twice as important
-    fh = f_score(y_true, preds, labels, beta=0.5)    # precision is twice as important
-    acc = accuracy(y_true, preds, labels)
-
     results[i, 0] = threshold
-    results[i, 1:5] = get_cm(y_true, preds, labels)
-    for j, mt in enumerate([prc, rec, spc, f1, f2, fh, acc]):
-      results[i, j+5] = mt
-
-  return results, roc(y_true, y_pred)
+    results[i, 1:] = calculate_metrics(y_true, y_pred>threshold)
+  return results, rocs
 
 
 def print_res(thres, cm, metric, name):
@@ -197,11 +197,11 @@ def save_metrics_data(metrics_data, output_dir):
       f.write(",".join(row.astype(str))+'\n')
 
 
-def save_roc_data(fpr, tpr, auc, output_dir):
+def save_roc_data(fpr, tpr, auc, thres, output_dir):
   with (output_dir / f"ROC_AUC_{auc:.4f}.csv").open("w") as f:
-    f.write("fpr, tpr\n")
-    for fp, tp in zip(fpr, tpr):
-      f.write(f"{fp},{tp}\n")
+    f.write("thres, fpr, tpr\n")
+    for t, fp, tp in zip(thres, fpr, tpr):
+      f.write(f"{t},{fp},{tp}\n")
 
 
 def main_no_infer(args):
@@ -223,7 +223,7 @@ def main_no_infer(args):
       pairs.append(pair)
       y_true.append(y_t)
       y_pred.append(y_p)
-    metrics_data, rocs = get_metrics(np.array(y_true).astype(int), np.array(y_pred).astype(float), args.threshold_interval)
+    metrics_data, rocs = get_metrics(np.array(y_true).astype(int), np.array(y_pred).astype(float))
 
     print(f"Summary for weight {out_dir.name}")
     summary(metrics_data)
@@ -232,11 +232,9 @@ def main_no_infer(args):
       continue
     save_metrics_data(metrics_data, out_dir)
     save_roc_data(*rocs, out_dir)
-    plot_roc(*rocs, out_dir/f"ROC_curve.png")
+    plot_roc(*rocs, save_dir=out_dir/f"ROC_curve.png")
     for i, metric in enumerate(METRICS):
       plot_curve(metrics_data[:, 0], metrics_data[:, i+5], (out_dir/f"{metric}_curve.png"), ylabel=metric)
-  if not args.no_save:
-    print(f"Results saved in {str(output_dir.absolute())}")
 
 
 def main(args):
@@ -254,7 +252,7 @@ def main(args):
       continue
     net.set_weight(weight)
     y_pred = net.predict(x_test, batch_size=args.batch_size)
-    metrics_data, rocs = get_metrics(y_true, y_pred, args.threshold_interval)
+    metrics_data, rocs = get_metrics(y_true, y_pred)
 
     print(f"Summary for weight {weight.name}")
     summary(metrics_data)
@@ -266,11 +264,9 @@ def main(args):
     save_inference_data(pairs, y_true, y_pred, out_dir)
     save_metrics_data(metrics_data, out_dir)
     save_roc_data(*rocs, out_dir)
-    plot_roc(*rocs, out_dir/f"ROC_curve.png")
+    plot_roc(*rocs, save_dir=out_dir/f"ROC_curve.png")
     for i, metric in enumerate(METRICS):
       plot_curve(metrics_data[:, 0], metrics_data[:, i+5], (out_dir/f"{metric}_curve.png"), ylabel=metric)
-  if not args.no_save:
-    print(f"Results saved in {str(output_dir.absolute())}")
 
 
 if __name__ == "__main__":
@@ -279,7 +275,6 @@ if __name__ == "__main__":
   parser.add_argument("-d", "--dataset-dir", type=str, default="lfw2/lfw2", help="Dataset directory")
   parser.add_argument("-p", "--img-pair-list", type=str, default="lfw2/splits/test.txt", help="Text file containing the list of the image pairs")
   parser.add_argument("-b", "--batch-size", type=int, default=32, help="Batch size for inference")
-  parser.add_argument("-t", "--threshold-interval", type=float, default=0.001, help="Threshold interval")
   parser.add_argument("-o", "--output-dir", type=str, default="results", help="Directory to save the results")
   parser.add_argument("-f", "--face-only", action="store_true", help="Isolate the face before inference")
   parser.add_argument("--no-save", action="store_true", help="Don't save the results")
@@ -290,3 +285,6 @@ if __name__ == "__main__":
     main_no_infer(args)
   else:
     main(args)
+
+  if not args.no_save:
+    print(f"Results saved in {str(Path(args.output_dir).absolute())}")
